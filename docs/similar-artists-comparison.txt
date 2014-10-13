@@ -1,0 +1,1000 @@
+
+Similarity comparison between the Last.fm API data and custom calculation.
+
+Compared artist: 'Cyndi Lauper'
+
+Last.fm API                   	Match Coeff                   	Custom Calculation            	Match Coeff                   	
+------------------------------	------------------------------	------------------------------	------------------------------
+Cher                          	1                             	Eurythmics                    	0.900273469922
+Laura Branigan                	0.874234                      	Cher                          	0.864880750661
+Madonna                       	0.842934                      	Blondie                       	0.85559250153
+Donna Summer                  	0.658615                      	Roxette                       	0.826374934416
+Belinda Carlisle              	0.604473                      	Madonna                       	0.785820651014
+Kylie Minogue                 	0.600886                      	Duran Duran                   	0.785507291104
+ABBA                          	0.545427                      	a-ha                          	0.77942164141
+Tina Turner                   	0.535795                      	Simple Minds                  	0.775368449071
+Kim Carnes                    	0.530318                      	Tears for Fears               	0.774874303367
+Shania Twain                  	0.518557                      	Kate Bush                     	0.732322604984
+Erasure                       	0.502421                      	The Cars                      	0.712328992795
+Eurythmics                    	0.497189                      	Whitney Houston               	0.712153895339
+Annie Lennox                  	0.471971                      	George Michael                	0.707819230117
+Grace Jones                   	0.46652                       	Gwen Stefani                  	0.703848767007
+Bette Midler                  	0.456317                      	Michael Jackson               	0.696514829578
+Culture Club                  	0.455561                      	Phil Collins                  	0.689692104815
+Paula Abdul                   	0.451865                      	INXS                          	0.687649097301
+Janet Jackson                 	0.44564                       	Katy Perry                    	0.686448876653
+Deborah Harry                 	0.442897                      	Kelly Clarkson                	0.682093483776
+Bonnie Tyler                  	0.434731                      	Nelly Furtado                 	0.661096287556
+Kim Wilde                     	0.417193                      	Pet Shop Boys                 	0.657351091386
+Debbie Gibson                 	0.412                         	Dido                          	0.651089361403
+Kate Bush                     	0.392741                      	Pink                          	0.650527390536
+Céline Dion                  	0.391636                      	Céline Dion                   	0.649909232729
+Christina Aguilera            	0.391216                      	Christina Aguilera            	0.646292435787
+Whitney Houston               	0.389911                      	Miley Cyrus                   	0.642142405297
+Dannii Minogue                	0.357741                      	P!nk                          	0.640194201381
+Sinéad O'Connor              	0.355567                      	Britney Spears                	0.636750414582
+Blondie                       	0.352853                      	Christina Perri               	0.636144617317
+Olivia Newton-John            	0.348897                      	Kylie Minogue                 	0.632852619544
+Martika                       	0.346468                      	The Police                    	0.628561802721
+Boy George                    	0.345269                      	Ariana Grande                 	0.623655152299
+Gloria Estefan                	0.335921                      	Sheryl Crow                   	0.621280199898
+Bananarama                    	0.328142                      	Carly Rae Jepsen              	0.617790469558
+Diana Ross                    	0.327417                      	Janet Jackson                 	0.611651391712
+The Bangles                   	0.32284                       	Selena Gomez                  	0.607682186862
+Tiffany                       	0.320523                      	Spice Girls                   	0.600400450197
+Thalía                       	0.31812                       	Cher Lloyd                    	0.588706525716
+Sheena Easton                 	0.312131                      	Demi Lovato                   	0.585983204933
+Gwen Stefani                  	0.31029                       	Jessie J                      	0.584726214865
+Roxette                       	0.309354                      	Lily Allen                    	0.584439310369
+Stevie Nicks                  	0.299015                      	Rita Ora                      	0.583743195859
+Daniela Mercury               	0.298156                      	t.A.T.u.                      	0.579852159897
+Jennifer Lopez                	0.298044                      	Natalia Kills                 	0.579216856321
+Mariah Carey                  	0.296428                      	Sara Bareilles                	0.575458627699
+Heart                         	0.286455                      	Avril Lavigne                 	0.575353358906
+Pet Shop Boys                 	0.280789                      	The Cardigans                 	0.57211929104
+The B-52's                    	0.279577                      	Shakira                       	0.571808395166
+Blue Angel                    	0.276266                      	ABBA                          	0.571403303465
+Taylor Dayne                  	0.275319                      	Fergie                        	0.57015199539
+Samantha Fox                  	0.274663                      	Colbie Caillat                	0.568052507229
+Pat Benatar                   	0.269825                      	The Pussycat Dolls            	0.567450515821
+Dolly Parton                  	0.269174                      	Lady Gaga                     	0.566542715995
+RuPaul                        	0.264665                      	Jennifer Lopez                	0.563215433717
+Alanis Morissette             	0.261688                      	Leona Lewis                   	0.562208427815
+Shakira                       	0.261267                      	Billy Idol                    	0.560744337514
+Deborah Blando                	0.254529                      	Ke$ha                         	0.559936665051
+Sophie Ellis-Bextor           	0.249763                      	Mariah Carey                  	0.559628832545
+Barbra Streisand              	0.247798                      	Alanis Morissette             	0.549094138525
+Gal Costa                     	0.246617                      	Nancy Sinatra                 	0.547683337155
+Spice Girls                   	0.242465                      	Prince                        	0.54593096903
+Rita Lee                      	0.237317                      	Kiesza                        	0.540583688782
+Alison Moyet                  	0.236534                      	KT Tunstall                   	0.540384759495
+Toni Braxton                  	0.232887                      	No Doubt                      	0.537861451005
+Agnetha Fältskog             	0.232246                      	Bryan Adams                   	0.52973814959
+Kid Abelha                    	0.230353                      	Rihanna                       	0.52526748199
+Berlin                        	0.227737                      	Becky G                       	0.520420393503
+Tori Amos                     	0.224729                      	Ace of Base                   	0.513733892145
+Sheryl Crow                   	0.224442                      	Toto                          	0.507847354761
+Sandra                        	0.222849                      	Little Mix                    	0.506805974968
+Dead or Alive                 	0.22089                       	Robyn                         	0.505523741354
+Liza Minnelli                 	0.219862                      	Backstreet Boys               	0.503712213842
+Melanie C                     	0.217599                      	Robbie Williams               	0.493130685408
+George Michael                	0.217406                      	Talking Heads                 	0.491407636016
+Lisa Stansfield               	0.217314                      	Heart                         	0.486661269869
+Geri Halliwell                	0.216644                      	Elton John                    	0.483819868025
+Laura Pausini                 	0.216427                      	Beyoncé                       	0.481466582677
+Nelly Furtado                 	0.216116                      	Sky Ferreira                  	0.470689046172
+The Go-Go's                   	0.20929                       	Lana Del Rey                  	0.46971500141
+Xuxa                          	0.208147                      	Tove Lo                       	0.469200610947
+Marina Lima                   	0.206191                      	Sting                         	0.469152373088
+The Pretenders                	0.204441                      	Foxes                         	0.465652506085
+Jessica Simpson               	0.200367                      	New Order                     	0.464306608836
+Natalie Imbruglia             	0.19687                       	Destiny's Child               	0.459702216722
+Lily Allen                    	0.194021                      	The Wanted                    	0.457346732031
+Wilson Phillips               	0.192158                      	Taylor Swift                  	0.457285853092
+Anastacia                     	0.19037                       	The Smiths                    	0.455132098467
+Sarah McLachlan               	0.190158                      	Rixton                        	0.452981236425
+Emma Bunton                   	0.186149                      	Roxy Music                    	0.452233470408
+The Pointer Sisters           	0.182234                      	Justin Timberlake             	0.45158166446
+Paloma Faith                  	0.181865                      	The Cure                      	0.450932670473
+Irene Cara                    	0.180275                      	Mika                          	0.448179569306
+Frida                         	0.178936                      	James Blunt                   	0.44575543059
+Shakespear's Sister           	0.177184                      	Jessie Ware                   	0.4387317053
+Paris Hilton                  	0.176804                      	Dusty Springfield             	0.431498238483
+LeAnn Rimes                   	0.175761                      	Paloma Faith                  	0.4243750178
+Duran Duran                   	0.174939                      	Bruno Mars                    	0.421817147264
+Deniece Williams              	0.17344                       	Foreigner                     	0.417619709023
+Jewel                         	0.170609                      	Chicago                       	0.416804922158
+P!nk                          	0.170264                      	Scissor Sisters               	0.41666554213
+                                                            	Depeche Mode                  	0.415301551143
+                                                            	Billy Joel                    	0.414995466774
+                                                            	Enrique Iglesias              	0.414976763191
+                                                            	Maroon 5                      	0.412514722214
+                                                            	Banks                         	0.412395666607
+                                                            	Olly Murs                     	0.406741001475
+                                                            	Marina & the Diamonds         	0.400868019213
+                                                            	Austin Mahone                 	0.398695380005
+                                                            	Justin Bieber                 	0.39486903224
+                                                            	Seal                          	0.393734174419
+                                                            	TLC                           	0.3864736863
+                                                            	Tori Amos                     	0.385888941187
+                                                            	Survivor                      	0.385771518939
+                                                            	MKTO                          	0.385255877907
+                                                            	Gavin DeGraw                  	0.384666650417
+                                                            	Indila                        	0.382157930601
+                                                            	Kelis                         	0.381487471805
+                                                            	One Direction                 	0.381203973469
+                                                            	MAGIC!                        	0.378279256402
+                                                            	Charli XCX                    	0.375628643191
+                                                            	Jhené Aiko                    	0.374974628572
+                                                            	Fiona Apple                   	0.373608790629
+                                                            	U2                            	0.372778438572
+                                                            	Lykke Li                      	0.372540524858
+                                                            	Lorde                         	0.367583755033
+                                                            	Siouxsie and the Banshees     	0.363698450738
+                                                            	Ciara                         	0.361849476136
+                                                            	Sade                          	0.358678367233
+                                                            	Jason Mraz                    	0.355477407061
+                                                            	Alicia Keys                   	0.354178828425
+                                                            	Ricky Martin                  	0.353782333821
+                                                            	Bee Gees                      	0.352385537602
+                                                            	Garbage                       	0.351457750127
+                                                            	Tracy Chapman                 	0.349585293955
+                                                            	Train                         	0.348623662189
+                                                            	John Newman                   	0.348427301045
+                                                            	Bon Jovi                      	0.345816854324
+                                                            	The Cranberries               	0.345557614607
+                                                            	Patti Smith                   	0.344836228149
+                                                            	Peter Gabriel                 	0.34435173445
+                                                            	PJ Harvey                     	0.343988667342
+                                                            	David Bowie                   	0.343569264557
+                                                            	Journey                       	0.343525150795
+                                                            	Rod Stewart                   	0.341051787455
+                                                            	Norah Jones                   	0.339252734729
+                                                            	Ingrid Michaelson             	0.338735112329
+                                                            	The Beach Boys                	0.338066937706
+                                                            	Kate Nash                     	0.334887229792
+                                                            	Jason Derülo                  	0.330622274906
+                                                            	Paul McCartney                	0.329340254122
+                                                            	Ellie Goulding                	0.320592978231
+                                                            	Morrissey                     	0.320224745901
+                                                            	Ella Henderson                	0.319237821553
+                                                            	Smash Mouth                   	0.318853967241
+                                                            	Lenny Kravitz                 	0.318726242391
+                                                            	Sia                           	0.318052185852
+                                                            	The Pretty Reckless           	0.317616173057
+                                                            	Imogen Heap                   	0.31713919406
+                                                            	Black Eyed Peas               	0.313498292987
+                                                            	Emilíana Torrini              	0.313166067588
+                                                            	Feist                         	0.311323712259
+                                                            	Bruce Springsteen             	0.310010830091
+                                                            	Idina Menzel                  	0.309506521148
+                                                            	Regina Spektor                	0.309070881079
+                                                            	Dire Straits                  	0.307717104662
+                                                            	Paramore                      	0.307319220809
+                                                            	John Mayer                    	0.306492360405
+                                                            	Fleetwood Mac                 	0.305247314472
+                                                            	Queen                         	0.303668212874
+                                                            	Adele                         	0.302307315331
+                                                            	Joy Division                  	0.30215136124
+                                                            	Gossip                        	0.30070886163
+                                                            	The Script                    	0.299264650419
+                                                            	Tom Petty and The Heartbreakers	0.296960602
+                                                            	Evanescence                   	0.295053425598
+                                                            	Flyleaf                       	0.2934418771
+                                                            	Europe                        	0.292812903458
+                                                            	St. Vincent                   	0.290571853579
+                                                            	Matchbox Twenty               	0.288917332051
+                                                            	R.E.M.                        	0.288601186074
+                                                            	James Morrison                	0.288378882053
+                                                            	Tom Petty                     	0.284543848559
+                                                            	HAIM                          	0.283869137622
+                                                            	Taio Cruz                     	0.281056317689
+                                                            	Nico & Vinz                   	0.279723511429
+                                                            	Icona Pop                     	0.279682477507
+                                                            	The Chainsmokers              	0.279633058663
+                                                            	Tegan and Sara                	0.278695991746
+                                                            	Bat for Lashes                	0.275526617992
+                                                            	Cash Cash                     	0.271770294475
+                                                            	Cat Power                     	0.270268252844
+                                                            	Violent Femmes                	0.269267496187
+                                                            	Def Leppard                   	0.267211600277
+                                                            	Aerosmith                     	0.267022067854
+                                                            	Chairlift                     	0.265450213504
+                                                            	Guano Apes                    	0.265233778458
+                                                            	Janelle Monáe                 	0.26135556369
+                                                            	Counting Crows                	0.259634556652
+                                                            	fun.                          	0.258700809788
+                                                            	Janis Joplin                  	0.256836059196
+                                                            	The Jackson 5                 	0.255398037336
+                                                            	Guns N' Roses                 	0.25443224365
+                                                            	The Beatles                   	0.253545014613
+                                                            	Joni Mitchell                 	0.251912037343
+                                                            	John Lennon                   	0.248924233733
+                                                            	Lifehouse                     	0.247706500416
+                                                            	Sam Smith                     	0.247139017762
+                                                            	Halestorm                     	0.247131322118
+                                                            	Goo Goo Dolls                 	0.245856955056
+                                                            	Birdy                         	0.245617049369
+                                                            	Yeah Yeah Yeahs               	0.244156719304
+                                                            	Capital Cities                	0.244074463843
+                                                            	Boston                        	0.243268733134
+                                                            	Hole                          	0.242921170994
+                                                            	Kishi Bashi                   	0.242486379454
+                                                            	Agnes Obel                    	0.241428181111
+                                                            	MØ                            	0.241315198959
+                                                            	Timeflies                     	0.239121038864
+                                                            	Psy                           	0.239036618257
+                                                            	Amy Winehouse                 	0.238686353066
+                                                            	Goldfrapp                     	0.238050645558
+                                                            	2NE1                          	0.236714351983
+                                                            	Austra                        	0.236408594576
+                                                            	Van Halen                     	0.236043659023
+                                                            	Nicki Minaj                   	0.235081987913
+                                                            	Mazzy Star                    	0.233524361857
+                                                            	소녀시대                          	0.232137523924
+                                                            	Metric                        	0.231495464106
+                                                            	Katy B                        	0.230490539681
+                                                            	Iggy Azalea                   	0.230440235971
+                                                            	Supertramp                    	0.229868188825
+                                                            	Nouvelle Vague                	0.2285193452
+                                                            	Dolly Parton                  	0.228510729793
+                                                            	Genesis                       	0.22843671443
+                                                            	Emeli Sandé                   	0.227562067526
+                                                            	Steve Miller Band             	0.2269276377
+                                                            	Whitesnake                    	0.226755824437
+                                                            	Sylvan Esso                   	0.226367068994
+                                                            	Laura Marling                 	0.225675781985
+                                                            	Third Eye Blind               	0.22515750713
+                                                            	Paolo Nutini                  	0.224266277584
+                                                            	Fitz and the Tantrums         	0.221740998481
+                                                            	Björk                         	0.221173868316
+                                                            	Mötley Crüe                   	0.220558417322
+                                                            	London Grammar                	0.219061973163
+                                                            	Nonono                        	0.218080961743
+                                                            	Scorpions                     	0.216764663588
+                                                            	Slash                         	0.216245952219
+                                                            	The Ting Tings                	0.21187663006
+                                                            	Electric Light Orchestra      	0.208944272676
+                                                            	Kiss                          	0.207673961604
+                                                            	Chase & Status                	0.207605166079
+                                                            	5 Seconds of Summer           	0.207207147011
+                                                            	The Zombies                   	0.205008680717
+                                                            	Robin Thicke                  	0.203946134508
+                                                            	Sharon Van Etten              	0.203293720882
+                                                            	Future Islands                	0.199995468061
+                                                            	Neon Trees                    	0.197106051526
+                                                            	M.I.A.                        	0.195852950117
+                                                            	Miike Snow                    	0.191261573809
+                                                            	Usher                         	0.190928729502
+                                                            	Timbaland                     	0.190073761538
+                                                            	Paul Simon                    	0.185521762768
+                                                            	Warpaint                      	0.183241674782
+                                                            	Inna                          	0.181596966623
+                                                            	Twin Shadow                   	0.181222010946
+                                                            	Enya                          	0.180123843888
+                                                            	Miranda Lambert               	0.179807031995
+                                                            	[unknown]                     	0.179493324367
+                                                            	Daughter                      	0.179162041393
+                                                            	Little Dragon                 	0.178110986019
+                                                            	Lou Reed                      	0.178009814968
+                                                            	Santigold                     	0.176706830871
+                                                            	OneRepublic                   	0.175282408443
+                                                            	Best Coast                    	0.17499762285
+                                                            	A Great Big World             	0.174537147174
+                                                            	Aretha Franklin               	0.174410680345
+                                                            	Coldplay                      	0.172237307165
+                                                            	Rhye                          	0.172132764003
+                                                            	Alabama Shakes                	0.169582368893
+                                                            	Sleigh Bells                  	0.166125656223
+                                                            	Dan Croll                     	0.166063249615
+                                                            	Daughtry                      	0.164217612512
+                                                            	Stevie Wonder                 	0.163393718328
+                                                            	MS MR                         	0.163277424232
+                                                            	Dave Matthews Band            	0.162565773441
+                                                            	CHVRCHES                      	0.16241447094
+                                                            	Hoobastank                    	0.162367147814
+                                                            	Ella Fitzgerald               	0.161182148175
+                                                            	First Aid Kit                 	0.16075478771
+                                                            	Hurts                         	0.159718343605
+                                                            	Nick Cave & The Bad Seeds     	0.159429097971
+                                                            	The All-American Rejects      	0.159279559094
+                                                            	Azealia Banks                 	0.159083390672
+                                                            	Martin Garrix                 	0.158486720633
+                                                            	KONGOS                        	0.15770089398
+                                                            	Nina Simone                   	0.156720988429
+                                                            	3 Doors Down                  	0.155428937264
+                                                            	Morcheeba                     	0.1553477942
+                                                            	Nickelback                    	0.154780886362
+                                                            	Etta James                    	0.153437802826
+                                                            	Michael Bublé                 	0.153281500214
+                                                            	The Kinks                     	0.153249775613
+                                                            	Jet                           	0.153040367968
+                                                            	David Gray                    	0.152560366792
+                                                            	Red Hot Chili Peppers         	0.152086700195
+                                                            	Billie Holiday                	0.151928828043
+                                                            	Foo Fighters                  	0.151561748777
+                                                            	Fever Ray                     	0.150604265983
+                                                            	Poliça                        	0.149568228838
+                                                            	Jeff Buckley                  	0.149114135242
+                                                            	Weezer                        	0.148985788951
+                                                            	America                       	0.148150969806
+                                                            	Steely Dan                    	0.147540998515
+                                                            	Tenacious D                   	0.145654968137
+                                                            	Jamiroquai                    	0.145459142459
+                                                            	Ne-Yo                         	0.144528418502
+                                                            	Santana                       	0.144029095004
+                                                            	Krewella                      	0.142829873961
+                                                            	Cake                          	0.142449588613
+                                                            	Plain White T's               	0.141837325413
+                                                            	Keane                         	0.141628801816
+                                                            	Van Morrison                  	0.141264727425
+                                                            	Creed                         	0.140430205579
+                                                            	Simple Plan                   	0.140321547088
+                                                            	Ben Harper                    	0.140009574123
+                                                            	Panic! at the Disco           	0.13873262164
+                                                            	Audioslave                    	0.138228244122
+                                                            	Bloodhound Gang               	0.138194725172
+                                                            	American Authors              	0.138117619794
+                                                            	AlunaGeorge                   	0.137997048208
+                                                            	Poets of the Fall             	0.137987268845
+                                                            	Jack White                    	0.137734428179
+                                                            	The Killers                   	0.137587395299
+                                                            	Eagles                        	0.137504628624
+                                                            	Primal Scream                 	0.137155779333
+                                                            	Pixies                        	0.13700301858
+                                                            	Manic Street Preachers        	0.136848776449
+                                                            	The Rolling Stones            	0.135759710254
+                                                            	The White Stripes             	0.135586667241
+                                                            	Jimmy Eat World               	0.135393257076
+                                                            	Lady Antebellum               	0.134927242784
+                                                            	Passion Pit                   	0.134876707509
+                                                            	Incubus                       	0.134809977902
+                                                            	Band of Skulls                	0.134713117095
+                                                            	Joe Cocker                    	0.134389004746
+                                                            	Roy Orbison                   	0.133772705836
+                                                            	Faith No More                 	0.133349246683
+                                                            	Staind                        	0.132978074426
+                                                            	Oasis                         	0.13293622507
+                                                            	Woodkid                       	0.132866575613
+                                                            	Anberlin                      	0.131809309571
+                                                            	The Doobie Brothers           	0.131609200987
+                                                            	Portishead                    	0.131308714059
+                                                            	Stereophonics                 	0.131282955207
+                                                            	Linkin Park                   	0.129300002721
+                                                            	ZZ Top                        	0.129130754268
+                                                            	Eddie Vedder                  	0.129119059519
+                                                            	The Fray                      	0.129091302608
+                                                            	Neil Young                    	0.129008589339
+                                                            	Iggy Pop                      	0.128392050329
+                                                            	Good Charlotte                	0.128079181796
+                                                            	Fall Out Boy                  	0.12699339204
+                                                            	tUnE-yArDs                    	0.125488300517
+                                                            	La Roux                       	0.124893021326
+                                                            	Gorillaz                      	0.124803204688
+                                                            	Phillip Phillips              	0.124375785136
+                                                            	Theory of a Deadman           	0.124349898333
+                                                            	Wolfmother                    	0.124046206358
+                                                            	The Velvet Underground        	0.123781741985
+                                                            	Black Rebel Motorcycle Club   	0.123112209884
+                                                            	OK Go                         	0.122939901391
+                                                            	The Raconteurs                	0.122916259291
+                                                            	My Chemical Romance           	0.122912354318
+                                                            	The Kills                     	0.122691623725
+                                                            	Green Day                     	0.122175432653
+                                                            	The Clash                     	0.121949151541
+                                                            	Cocteau Twins                 	0.121394322542
+                                                            	Basement Jaxx                 	0.121393258559
+                                                            	Rage Against the Machine      	0.120684271622
+                                                            	Elvis Presley                 	0.119420966079
+                                                            	Beck                          	0.119322625065
+                                                            	The Dead Weather              	0.118940913663
+                                                            	Papa Roach                    	0.118892780496
+                                                            	Travis                        	0.118751381122
+                                                            	Lacuna Coil                   	0.118655235709
+                                                            	Puddle of Mudd                	0.118622523328
+                                                            	Blur                          	0.11837699514
+                                                            	The Dandy Warhols             	0.11829710976
+                                                            	Eels                          	0.117810269265
+                                                            	The Drums                     	0.117461605728
+                                                            	AC/DC                         	0.11720409163
+                                                            	Yellowcard                    	0.117029523589
+                                                            	Phoenix                       	0.116851709825
+                                                            	Glee Cast                     	0.116709552843
+                                                            	The Who                       	0.116436098194
+                                                            	Shinedown                     	0.116147148475
+                                                            	Eagles of Death Metal         	0.11596744509
+                                                            	The Smashing Pumpkins         	0.115764824626
+                                                            	Alter Bridge                  	0.11555736262
+                                                            	The Jesus and Mary Chain      	0.114869530251
+                                                            	30 Seconds to Mars            	0.114642283649
+                                                            	Kings of Leon                 	0.11455710593
+                                                            	Queens of the Stone Age       	0.114288395223
+                                                            	Bush                          	0.113593503282
+                                                            	Three Days Grace              	0.113124404051
+                                                            	Biffy Clyro                   	0.112994649759
+                                                            	Breaking Benjamin             	0.11280481714
+                                                            	Mando Diao                    	0.112487642227
+                                                            	Muse                          	0.11164430278
+                                                            	Ryan Adams                    	0.111448148989
+                                                            	Franz Ferdinand               	0.111435596056
+                                                            	The Hives                     	0.111301878146
+                                                            	Seether                       	0.111179636066
+                                                            	The Stone Roses               	0.111154899047
+                                                            	The Civil Wars                	0.111093767255
+                                                            	The Strokes                   	0.110704453964
+                                                            	Boyce Avenue                  	0.11051303563
+                                                            	Cat Stevens                   	0.110333127584
+                                                            	Chevelle                      	0.110089564166
+                                                            	Placebo                       	0.109614504003
+                                                            	Alice Cooper                  	0.109231138499
+                                                            	Pulp                          	0.109199127945
+                                                            	T. Rex                        	0.108116346917
+                                                            	Eric Clapton                  	0.107758841119
+                                                            	The Verve                     	0.106196466039
+                                                            	Radiohead                     	0.105611317615
+                                                            	Skillet                       	0.105169396488
+                                                            	Supergrass                    	0.104636057488
+                                                            	Jimi Hendrix                  	0.104171446269
+                                                            	Taking Back Sunday            	0.102517264632
+                                                            	Snow Patrol                   	0.102168350473
+                                                            	FKA Twigs                     	0.102147791796
+                                                            	Leonard Cohen                 	0.101912006482
+                                                            	Blue Öyster Cult              	0.101682128487
+                                                            	Thousand Foot Krutch          	0.101677698066
+                                                            	The Flaming Lips              	0.101396384463
+                                                            	Brand New                     	0.100754277163
+                                                            	Сплин                         	0.100215272056
+                                                            	The Animals                   	0.100114353934
+                                                            	Jack Johnson                  	0.099625153621
+                                                            	Bob Dylan                     	0.0984566168237
+                                                            	The Doors                     	0.0983641276388
+                                                            	Imagine Dragons               	0.0983448700851
+                                                            	Steppenwolf                   	0.0983140268335
+                                                            	Pearl Jam                     	0.0982198948161
+                                                            	Naughty Boy                   	0.098074964166
+                                                            	The Band                      	0.0980043320031
+                                                            	Led Zeppelin                  	0.0976137516836
+                                                            	Creedence Clearwater Revival  	0.0975735325914
+                                                            	You Me at Six                 	0.0974597724756
+                                                            	Kansas                        	0.0973042297781
+                                                            	Tom Waits                     	0.0972953287931
+                                                            	The Used                      	0.0967845707054
+                                                            	Stone Temple Pilots           	0.0959570287114
+                                                            	Dinosaur Jr.                  	0.0955376888711
+                                                            	Cage the Elephant             	0.0946755920466
+                                                            	Thin Lizzy                    	0.0934721412583
+                                                            	Tennis                        	0.0931606811606
+                                                            	Grouplove                     	0.0927562913433
+                                                            	Stars                         	0.0922506412094
+                                                            	Belle and Sebastian           	0.0922153963126
+                                                            	Jefferson Airplane            	0.0922063663896
+                                                            	Deep Purple                   	0.0917573953334
+                                                            	Mayday Parade                 	0.0915446336839
+                                                            	Kaiser Chiefs                 	0.0901932817022
+                                                            	The Jimi Hendrix Experience   	0.0898706167272
+                                                            	of Montreal                   	0.0897089035608
+                                                            	Nirvana                       	0.0896315064547
+                                                            	Lynyrd Skynyrd                	0.0893985924101
+                                                            	Buffalo Springfield           	0.0890249171135
+                                                            	Billy Talent                  	0.0889459295837
+                                                            	Sonic Youth                   	0.0888374693432
+                                                            	Epica                         	0.0886972350189
+                                                            	Elbow                         	0.0885584038327
+                                                            	All Time Low                  	0.0881393506013
+                                                            	A Perfect Circle              	0.0880778435561
+                                                            	The Gaslight Anthem           	0.0875597031686
+                                                            	blink-182                     	0.0873842807484
+                                                            	Frank Zappa                   	0.0872231755572
+                                                            	Bleachers                     	0.0869348596479
+                                                            	Los Hermanos                  	0.0867922944443
+                                                            	Owl City                      	0.0863803823558
+                                                            	will.i.am                     	0.0859386141037
+                                                            	Cream                         	0.0854655552913
+                                                            	P.O.D.                        	0.0851157569812
+                                                            	AFI                           	0.085100741909
+                                                            	Marilyn Manson                	0.0849592848245
+                                                            	Suede                         	0.0849313640516
+                                                            	Limp Bizkit                   	0.0843327523041
+                                                            	HIM                           	0.0842032430442
+                                                            	Milky Chance                  	0.0837388836648
+                                                            	Rainbow                       	0.083539330987
+                                                            	Yo La Tengo                   	0.0832894743737
+                                                            	Architecture in Helsinki      	0.0832881298001
+                                                            	Vampire Weekend               	0.0828733183294
+                                                            	Sum 41                        	0.0817811756933
+                                                            	Spoon                         	0.0815193613307
+                                                            	Ladytron                      	0.0810368406078
+                                                            	The Shins                     	0.0808769841615
+                                                            	Soundgarden                   	0.0805738933468
+                                                            	The Black Keys                	0.0803418343827
+                                                            	BROODS                        	0.0801613796989
+                                                            	The Offspring                 	0.0798657368596
+                                                            	Young the Giant               	0.0795000812315
+                                                            	Pink Floyd                    	0.0790043387502
+                                                            	System of a Down              	0.0784256340373
+                                                            	Miguel                        	0.0783767015066
+                                                            	Ed Sheeran                    	0.0782323473119
+                                                            	Matt & Kim                    	0.0779391608494
+                                                            	Mike Oldfield                 	0.0778976719042
+                                                            	Kasabian                      	0.0776016041093
+                                                            	The New Pornographers         	0.0775954567799
+                                                            	Serj Tankian                  	0.0770351908914
+                                                            	The Subways                   	0.0767821601584
+                                                            	The Allman Brothers Band      	0.0766932278925
+                                                            	AWOLNATION                    	0.0766663595028
+                                                            	Yes                           	0.076447200726
+                                                            	Grateful Dead                 	0.0760844083119
+                                                            	Interpol                      	0.0758342603501
+                                                            	Deftones                      	0.0758236589061
+                                                            	Arctic Monkeys                	0.0756479159372
+                                                            	Chris Brown                   	0.0756395889301
+                                                            	Ozzy Osbourne                 	0.0756226043815
+                                                            	Moby                          	0.0753836165808
+                                                            	Wilco                         	0.0748526290021
+                                                            	Cold War Kids                 	0.0746791341627
+                                                            	Echo & the Bunnymen           	0.0740374580787
+                                                            	Beastie Boys                  	0.0738964674404
+                                                            	The Heavy                     	0.0738415562225
+                                                            	Rush                          	0.0737490972477
+                                                            	The Neighbourhood             	0.0736876327573
+                                                            	Ramones                       	0.07355148881
+                                                            	My Morning Jacket             	0.0734560381635
+                                                            	Peter Bjorn and John          	0.073352201102
+                                                            	Editors                       	0.0733490938997
+                                                            	3OH!3                         	0.0733435575391
+                                                            	Kool & The Gang               	0.0727418381974
+                                                            	Silversun Pickups             	0.0723163042088
+                                                            	The Fratellis                 	0.0721468953433
+                                                            	Modest Mouse                  	0.0719851489112
+                                                            	Alice in Chains               	0.0713716578548
+                                                            	The National                  	0.0713651027511
+                                                            	Bloc Party                    	0.0707569113422
+                                                            	The Temper Trap               	0.0706385652812
+                                                            	The Libertines                	0.0702869882745
+                                                            	Stromae                       	0.0699918347108
+                                                            	The Stooges                   	0.0683015450418
+                                                            	Godsmack                      	0.0672936476992
+                                                            	Nine Inch Nails               	0.0672511776179
+                                                            	Johnny Cash                   	0.0672504915316
+                                                            	Electric Guest                	0.0667214730644
+                                                            	Within Temptation             	0.0663121401795
+                                                            	Jethro Tull                   	0.0658495220065
+                                                            	Eminem                        	0.0655627707187
+                                                            	Chuck Berry                   	0.0653013771833
+                                                            	Death Cab for Cutie           	0.0646576696941
+                                                            	Korn                          	0.0640871587584
+                                                            	TV on the Radio               	0.0634196319575
+                                                            	Arcade Fire                   	0.0633951862186
+                                                            	The Rapture                   	0.0633402331895
+                                                            	The Last Shadow Puppets       	0.0627517299598
+                                                            	Miles Kane                    	0.0616941481918
+                                                            	Andrew Bird                   	0.06162498868
+                                                            	Sublime                       	0.0614272031455
+                                                            	Calvin Harris                 	0.0613552133874
+                                                            	The Lumineers                 	0.0613548240833
+                                                            	The Vaccines                  	0.0612579961156
+                                                            	Elliott Smith                 	0.061213995338
+                                                            	Beach House                   	0.0612128144798
+                                                            	Stone Sour                    	0.0611644220772
+                                                            	Seinabo Sey                   	0.0609764818878
+                                                            	Chromatics                    	0.0608429341581
+                                                            	Band of Horses                	0.059845792429
+                                                            	Pavement                      	0.0591207142303
+                                                            	Kenny Chesney                 	0.0590031214344
+                                                            	Cults                         	0.0587618946294
+                                                            	Foster the People             	0.0587004115865
+                                                            	Disturbed                     	0.0581718012804
+                                                            	Kraftwerk                     	0.0575344035289
+                                                            	The Mars Volta                	0.0574679893763
+                                                            	Pitbull                       	0.0574476308515
+                                                            	Damien Rice                   	0.0574177923362
+                                                            	The Wombats                   	0.0572023681504
+                                                            	Gnarls Barkley                	0.056965479239
+                                                            	Far East Movement             	0.0564354668872
+                                                            	Rob Zombie                    	0.0562933439033
+                                                            	George Ezra                   	0.0562595373846
+                                                            	Grimes                        	0.0560806655034
+                                                            	Black Sabbath                 	0.0554884645657
+                                                            	Empire of the Sun             	0.0552420568532
+                                                            	Bad Suns                      	0.055236129658
+                                                            	The Brian Jonestown Massacre  	0.0552221738619
+                                                            	Hot Chip                      	0.0549554160868
+                                                            	Gotye                         	0.0547798886016
+                                                            	Rise Against                  	0.0543719149793
+                                                            	The War on Drugs              	0.0542377702068
+                                                            	Broken Bells                  	0.0541192555819
+                                                            	Hozier                        	0.0538176896999
+                                                            	Sufjan Stevens                	0.0535989961075
+                                                            	Portugal. The Man             	0.0534009495575
+                                                            	Bastille                      	0.0533517397273
+                                                            	Dio                           	0.0527300469849
+                                                            	LMFAO                         	0.0527172590118
+                                                            	Motörhead                     	0.0524222950644
+                                                            	The Naked and Famous          	0.0524107861079
+                                                            	Vance Joy                     	0.0521011582813
+                                                            	Metallica                     	0.052082380264
+                                                            	Damon Albarn                  	0.0520507844094
+                                                            	Tool                          	0.051768345483
+                                                            	The Knife                     	0.0513930993471
+                                                            	The Postal Service            	0.050987893054
+                                                            	Bright Eyes                   	0.0506387888276
+                                                            	G-Eazy                        	0.0505848173982
+                                                            	Klingande                     	0.050514382049
+                                                            	Drowning Pool                 	0.0503959471979
+                                                            	Jake Bugg                     	0.0503675215198
+                                                            	David Guetta                  	0.0500933099077
+                                                            	Avenged Sevenfold             	0.050051849648
+                                                            	Pharrell Williams             	0.0498959274078
+                                                            	Cro                           	0.0498694303522
+                                                            	Tyga                          	0.049593448834
+                                                            	Panama                        	0.0490158461074
+                                                            	Joshua Radin                  	0.0489956145925
+                                                            	Cut Copy                      	0.0486748574789
+                                                            	Nelly                         	0.0486693097857
+                                                            	Atlas Genius                  	0.0484138054108
+                                                            	The Whitest Boy Alive         	0.0482933957718
+                                                            	Radical Face                  	0.0480266353573
+                                                            	Fatboy Slim                   	0.0472092891512
+                                                            	Walk the Moon                 	0.0470140840586
+                                                            	LCD Soundsystem               	0.0469809258794
+                                                            	The Decemberists              	0.0467028963034
+                                                            	Fort Minor                    	0.0463808289353
+                                                            	Flight Facilities             	0.0458898561917
+                                                            	Tom Odell                     	0.0458708354609
+                                                            	Rammstein                     	0.0455517634463
+                                                            	Nightwish                     	0.0453486652122
+                                                            	Nick Drake                    	0.0453240937145
+                                                            	Archive                       	0.0451478615431
+                                                            	Faithless                     	0.0449595429776
+                                                            	Wye Oak                       	0.0448267743658
+                                                            	Tame Impala                   	0.0446277441226
+                                                            	Madeon                        	0.0444710663189
+                                                            	Celldweller                   	0.0436159658986
+                                                            	Kings of Convenience          	0.0435928820532
+                                                            	Bad Religion                  	0.0435706991594
+                                                            	Fugees                        	0.0434600487423
+                                                            	Alex Clare                    	0.0434210213323
+                                                            	King Crimson                  	0.0433835366945
+                                                            	R. Kelly                      	0.0433704713666
+                                                            	White Lies                    	0.0433071588477
+                                                            	Passenger                     	0.0429413995877
+                                                            	San Cisco                     	0.0428072080615
+                                                            	Kurt Vile                     	0.0420328401719
+                                                            	Purity Ring                   	0.041615766651
+                                                            	MGMT                          	0.041373716136
+                                                            	Blood Orange                  	0.041193863118
+                                                            	José González                 	0.0410776361916
+                                                            	Sun Kil Moon                  	0.0410147952874
+                                                            	Phantogram                    	0.0409536056031
+                                                            	Ray LaMontagne                	0.040921089263
+                                                            	Outkast                       	0.0408666273421
+                                                            	Porcupine Tree                	0.0407469428981
+                                                            	Slipknot                      	0.0407141751352
+                                                            	Iron Maiden                   	0.040622717814
+                                                            	Flogging Molly                	0.0405802660271
+                                                            	The Pains of Being Pure At Heart	0.0404125585916
+                                                            	Chromeo                       	0.0398050740782
+                                                            	Sex Pistols                   	0.0389428172185
+                                                            	Wild Beasts                   	0.0381687719952
+                                                            	Daft Punk                     	0.0379220964463
+                                                            	Of Monsters and Men           	0.0377344879822
+                                                            	Gym Class Heroes              	0.0375860291288
+                                                            	Starfucker                    	0.037146695589
+                                                            	The xx                        	0.0370011630229
+                                                            	Broken Social Scene           	0.036818150575
+                                                            	My Bloody Valentine           	0.0367267116435
+                                                            	Flo Rida                      	0.0365775958681
+                                                            	Alex Turner                   	0.0364782060029
+                                                            	Crystal Castles               	0.0364755302469
+                                                            	The Kooks                     	0.0361501629004
+                                                            	Static-X                      	0.0359103444056
+                                                            	Blue Foundation               	0.0357912617856
+                                                            	Kavinsky                      	0.0355500527336
+                                                            	Friendly Fires                	0.0355292867615
+                                                            	Ben Howard                    	0.0353801420865
+                                                            	Against Me!                   	0.0351868331617
+                                                            	Clean Bandit                  	0.035096100829
+                                                            	Sean Paul                     	0.0346411298626
+                                                            	Kaskade                       	0.0345145868278
+                                                            	Devendra Banhart              	0.0344950078455
+                                                            	Fink                          	0.0344731708782
+                                                            	St. Lucia                     	0.0344102875303
+                                                            	William Fitzsimmons           	0.0342798932394
+                                                            	Unknown Mortal Orchestra      	0.0342754917273
+                                                            	Swedish House Mafia           	0.0342499945797
+                                                            	The 1975                      	0.0339676430802
+                                                            	Benny Benassi                 	0.033615660863
+                                                            	The Weeknd                    	0.0330934611279
+                                                            	The Prodigy                   	0.032879851366
+                                                            	Groove Armada                 	0.0326750507696
+                                                            	John Legend                   	0.032615050821
+                                                            	Benjamin Francis Leftwich     	0.0325578608099
+                                                            	NOFX                          	0.032540235908
+                                                            	B.o.B                         	0.0323489580614
+                                                            	Wild Nothing                  	0.0322737918671
+                                                            	Temples                       	0.0321340919079
+                                                            	Phosphorescent                	0.0314409244082
+                                                            	The Chemical Brothers         	0.0314279977574
+                                                            	Misfits                       	0.0313660970525
+                                                            	Mac DeMarco                   	0.0310209783794
+                                                            	Example                       	0.030919855924
+                                                            	James Vincent McMorrow        	0.0308034389779
+                                                            	The Temptations               	0.0304913763797
+                                                            	Brian Eno                     	0.0303891005495
+                                                            	SOHN                          	0.03013837022
+                                                            	Neutral Milk Hotel            	0.0299817885569
+                                                            	Avicii                        	0.0298543275393
+                                                            	Metronomy                     	0.0297966728952
+                                                            	Bon Iver                      	0.0295025577686
+                                                            	City and Colour               	0.0292200428453
+                                                            	The Antlers                   	0.0291734869436
+                                                            	Frank Sinatra                 	0.0290129401222
+                                                            	Tokyo Police Club             	0.0287072561169
+                                                            	Kodaline                      	0.0285659401938
+                                                            	Marvin Gaye                   	0.0284753795523
+                                                            	Local Natives                 	0.0283696051973
+                                                            	Judas Priest                  	0.0282968745514
+                                                            	The Tallest Man on Earth      	0.0282535701493
+                                                            	Keaton Henson                 	0.0281912863222
+                                                            	Twenty One Pilots             	0.0279107911812
+                                                            	Manu Chao                     	0.027586707681
+                                                            	Justice                       	0.0275515298245
+                                                            	Rancid                        	0.0273162563007
+                                                            	Sam Cooke                     	0.0271949622464
+                                                            	Kanye West                    	0.0269448990117
+                                                            	Klaxons                       	0.0269063349234
+                                                            	RAC                           	0.0269017329148
+                                                            	Digitalism                    	0.0268879411805
+                                                            	Black Label Society           	0.0268234938196
+                                                            	50 Cent                       	0.0267568666991
+                                                            	Deorro                        	0.0263296193885
+                                                            	Beirut                        	0.0262556397664
+                                                            	Air                           	0.0261091001176
+                                                            	Two Door Cinema Club          	0.0259239012059
+                                                            	Cazzette                      	0.0250431116895
+                                                            	Rudimental                    	0.0247225582428
+                                                            	alt-J                         	0.0246681741582
+                                                            	Tiësto                        	0.0246251185723
+                                                            	Crystal Fighters              	0.0246086943554
+                                                            	Trey Songz                    	0.024161622432
+                                                            	Dream Theater                 	0.0239304685845
+                                                            	DJ Snake & Lil Jon            	0.0238673427988
+                                                            	Toro y Moi                    	0.0234816371533
+                                                            	Parquet Courts                	0.0233401867338
+                                                            	She & Him                     	0.0229326640441
+                                                            	Real Estate                   	0.0228897086708
+                                                            	Anthrax                       	0.0228800193105
+                                                            	The Royal Concept             	0.0225930630611
+                                                            	Future                        	0.0222226614134
+                                                            	College                       	0.0219863566733
+                                                            	Zero 7                        	0.021885586074
+                                                            	Dropkick Murphys              	0.0215605671556
+                                                            	Simon & Garfunkel             	0.0214133313115
+                                                            	Pretty Lights                 	0.0214096406959
+                                                            	Yeasayer                      	0.0211251863625
+                                                            	Ratatat                       	0.0209787402093
+                                                            	Bob Marley                    	0.0209226124049
+                                                            	Bob Marley & The Wailers      	0.0209226124049
+                                                            	Jungle                        	0.0200566817881
+                                                            	Cloud Nothings                	0.0200518463384
+                                                            	The Horrors                   	0.0199898403387
+                                                            	Frank Ocean                   	0.0194607897845
+                                                            	Caribou                       	0.0194589162389
+                                                            	Washed Out                    	0.0193753242242
+                                                            	Volbeat                       	0.0190224960423
+                                                            	Animal Collective             	0.0189961858372
+                                                            	James Brown                   	0.0189699544427
+                                                            	Bombay Bicycle Club           	0.0188341118928
+                                                            	Django Django                 	0.0187341045677
+                                                            	Zedd                          	0.0185680492984
+                                                            	Jagwar Ma                     	0.0184455220279
+                                                            	The Head and the Heart        	0.018304713671
+                                                            	Lindsey Stirling              	0.0182758714721
+                                                            	Hollywood Undead              	0.0182503117539
+                                                            	Wavves                        	0.018207471681
+                                                            	Escape the Fate               	0.0180543065964
+                                                            	Megadeth                      	0.0177497621506
+                                                            	Noah and the Whale            	0.0174871105155
+                                                            	Swans                         	0.0172354223286
+                                                            	M83                           	0.0171470424937
+                                                            	Killswitch Engage             	0.0170868167855
+                                                            	The Lonely Island             	0.0168207132631
+                                                            	Manowar                       	0.016679290957
+                                                            	Röyksopp                      	0.0166574034731
+                                                            	Röyksopp & Robyn              	0.0166574034731
+                                                            	Ghost                         	0.0163870380198
+                                                            	Junip                         	0.0161157370126
+                                                            	Foals                         	0.0161099760017
+                                                            	Drake                         	0.0160052912456
+                                                            	UNKLE                         	0.0158572856127
+                                                            	Mogwai                        	0.0156718491323
+                                                            	Armin van Buuren              	0.0155803899877
+                                                            	Neon Indian                   	0.0154612801451
+                                                            	Jay-Z                         	0.0153390270491
+                                                            	Jay-Z & Kanye West            	0.0153390270491
+                                                            	Fleet Foxes                   	0.0152785783715
+                                                            	Bullet for My Valentine       	0.0151312839227
+                                                            	Hardwell                      	0.0150427907955
+                                                            	Arch Enemy                    	0.0148800786375
+                                                            	Every Time I Die              	0.0145339888623
+                                                            	Helloween                     	0.0143327599763
+                                                            	The Avett Brothers            	0.0141486542562
+                                                            	Bill Withers                  	0.0141093584036
+                                                            	Anathema                      	0.0140307431973
+                                                            	Disclosure                    	0.0137843969302
+                                                            	Al Green                      	0.0132796220836
+                                                            	Florence + the Machine        	0.0129059470256
+                                                            	Big Sean                      	0.0128571672898
+                                                            	Pendulum                      	0.0127177754321
+                                                            	Pantera                       	0.0124986359871
+                                                            	Massive Attack                	0.0123169917556
+                                                            	Cypress Hill                  	0.0122245185416
+                                                            	Die Antwoord                  	0.0121167203595
+                                                            	Darkside                      	0.0119572280919
+                                                            	Grizzly Bear                  	0.0119233058991
+                                                            	Otis Redding                  	0.0116539017894
+                                                            	Apocalyptica                  	0.0115618479264
+                                                            	Duke Dumont                   	0.0115145892629
+                                                            	Sigur Rós                     	0.0113893559497
+                                                            	SBTRKT                        	0.0112084082516
+                                                            	Slayer                        	0.0109584957215
+                                                            	Todd Terje                    	0.0108722968887
+                                                            	Snoop Dogg                    	0.0106869651347
+                                                            	Moderat                       	0.0106416615521
+                                                            	C2C                           	0.0105897115807
+                                                            	Porter Robinson               	0.0103955380659
+                                                            	Thievery Corporation          	0.0101173084682
+                                                            	Deerhunter                    	0.010014334259
+                                                            	Baths                         	0.00991038661275
+                                                            	Ice Cube                      	0.00977703528038
+                                                            	Afrojack                      	0.00972434133185
+                                                            	Major Lazer                   	0.00958707060139
+                                                            	Youth Lagoon                  	0.00957277764503
+                                                            	Route 94                      	0.00952679844648
+                                                            	DJ Shadow                     	0.00929297880119
+                                                            	Sigma                         	0.00925800212836
+                                                            	Kid Cudi                      	0.00924043726064
+                                                            	How to Dress Well             	0.00915435916908
+                                                            	Nosaj Thing                   	0.00895447202241
+                                                            	Four Tet                      	0.00884505918119
+                                                            	RJD2                          	0.00868202208959
+                                                            	Slowdive                      	0.00857186652621
+                                                            	Explosions in the Sky         	0.00842274036609
+                                                            	Skrillex                      	0.00839564413444
+                                                            	Sepultura                     	0.00830945640292
+                                                            	Bobby Womack                  	0.00827777868332
+                                                            	Ray Charles                   	0.00826438917254
+                                                            	Tricky                        	0.00823077758148
+                                                            	The Album Leaf                	0.00819233657428
+                                                            	Busta Rhymes                  	0.00811269597775
+                                                            	Flume                         	0.00798129001697
+                                                            	Ludacris                      	0.00797944345186
+                                                            	Flying Lotus                  	0.00796576949139
+                                                            	deadmau5                      	0.00794205272325
+                                                            	Nicolas Jaar                  	0.0077990816878
+                                                            	Amon Tobin                    	0.00779491235265
+                                                            	Lil' Wayne                    	0.0077542192117
+                                                            	Aphex Twin                    	0.00773451812
+                                                            	The Glitch Mob                	0.00767617143798
+                                                            	Glass Animals                 	0.00765508495197
+                                                            	Trentemøller                  	0.00764762643742
+                                                            	Gold Panda                    	0.0076334051349
+                                                            	Feed Me                       	0.00734096585187
+                                                            	James Blake                   	0.00729235561183
+                                                            	Infected Mushroom             	0.00722033570166
+                                                            	DMX                           	0.00718015550543
+                                                            	Zhu                           	0.00711702757663
+                                                            	Boards of Canada              	0.00702694860376
+                                                            	Childish Gambino              	0.006976317741
+                                                            	65daysofstatic                	0.00680274785592
+                                                            	Paul Kalkbrenner              	0.00675438476111
+                                                            	Katatonia                     	0.00662380256379
+                                                            	Florida Georgia Line          	0.00654722912567
+                                                            	Alle Farben                   	0.00653298686276
+                                                            	Five Finger Death Punch       	0.0063986994727
+                                                            	Gorgon City                   	0.00638262741545
+                                                            	Jamie xx                      	0.00635011355465
+                                                            	Tycho                         	0.00634809138632
+                                                            	ODESZA                        	0.00629156356771
+                                                            	Bassnectar                    	0.00605545897517
+                                                            	Enter Shikari                 	0.00602031499978
+                                                            	Jon Hopkins                   	0.0060071550796
+                                                            	The Game                      	0.00600481496199
+                                                            	A Day to Remember             	0.00600202464423
+                                                            	Bibio                         	0.00597019694205
+                                                            	Machine Head                  	0.00595789772993
+                                                            	Trivium                       	0.00575351744146
+                                                            	The Cinematic Orchestra       	0.00575267333267
+                                                            	Bonobo                        	0.00572724792283
+                                                            	Knife Party                   	0.00565683755779
+                                                            	Emancipator                   	0.00562846874708
+                                                            	Parov Stelar                  	0.00558563356005
+                                                            	Miles Davis                   	0.00549032606061
+                                                            	Helios                        	0.00546254501044
+                                                            	God Is An Astronaut           	0.00545807605137
+                                                            	Nightmares on Wax             	0.0054426230563
+                                                            	This Will Destroy You         	0.00531692972337
+                                                            	Nero                          	0.00506118058319
+                                                            	Asking Alexandria             	0.00503800703374
+                                                            	Burial                        	0.0050361339761
+                                                            	Mount Kimbie                  	0.00503484895473
+                                                            	T.I.                          	0.00476040270554
+                                                            	Mastodon                      	0.00475437381776
+                                                            	Sub Focus                     	0.00466035609105
+                                                            	Klangkarussell                	0.00463759212153
+                                                            	Louis Armstrong               	0.00454983147785
+                                                            	Nas                           	0.004545721407
+                                                            	A$AP Rocky                    	0.00447694743804
+                                                            	The Roots                     	0.0043306435881
+                                                            	Mac Miller                    	0.00419781766171
+                                                            	Rick Ross                     	0.00418366377318
+                                                            	Lamb of God                   	0.00402495836312
+                                                            	Flux Pavilion                 	0.00399863261083
+                                                            	Mos Def                       	0.00394652937508
+                                                            	Wu-Tang Clan                  	0.00387042873114
+                                                            	2Pac                          	0.00382381794604
+                                                            	Clint Mansell                 	0.00377384022792
+                                                            	Sonata Arctica                	0.0037312628246
+                                                            	In Flames                     	0.00361317170128
+                                                            	A Tribe Called Quest          	0.00331299071542
+                                                            	Chet Faker                    	0.00325505839616
+                                                            	Death Grips                   	0.00323117276356
+                                                            	Opeth                         	0.00321922453183
+                                                            	Yann Tiersen                  	0.00318886246004
+                                                            	DJ Fresh                      	0.00310260827319
+                                                            	Atmosphere                    	0.00299800183156
+                                                            	Hammock                       	0.00289425527205
+                                                            	La Dispute                    	0.00285486323692
+                                                            	The Notorious B.I.G.          	0.00274952618729
+                                                            	Wiz Khalifa                   	0.00237700140994
+                                                            	Danny Brown                   	0.0022364723411
+                                                            	Common                        	0.00222981222002
+                                                            	Kendrick Lamar                	0.00215566886486
+                                                            	Ramin Djawadi                 	0.00205221044028
+                                                            	Lupe Fiasco                   	0.00197888784136
+                                                            	Ab-Soul                       	0.00194200335394
+                                                            	Kid Ink                       	0.00194028875229
+                                                            	Luke Bryan                    	0.00192446025113
+                                                            	Aloe Blacc                    	0.00189494652983
+                                                            	ScHoolboy Q                   	0.00187409903592
+                                                            	Dr. Dre                       	0.0018571703205
+                                                            	Blind Guardian                	0.0018541692543
+                                                            	Children of Bodom             	0.00171562195448
+                                                            	Angus & Julia Stone           	0.00170714826193
+                                                            	Macklemore & Ryan Lewis       	0.0016798872746
+                                                            	Death                         	0.00161838521024
+                                                            	John Coltrane                 	0.00156193513283
+                                                            	John Williams                 	0.00151337055962
+                                                            	Pusha T                       	0.00149200787436
+                                                            	J. Cole                       	0.00146968499683
+                                                            	Earl Sweatshirt               	0.00138618401807
+                                                            	2 Chainz                      	0.00116567593241
+                                                            	Netsky                        	0.00114407871629
+                                                            	Tyler, the Creator            	0.00106477484743
+                                                            	Gramatik                      	0.000949721870824
+                                                            	YG                            	0.0008841398387
+                                                            	Hans Zimmer                   	0.000706486236977
+                                                            	Ólafur Arnalds                	0.000705861855965
+                                                            	Above & Beyond                	0.000624699283941
+                                                            	Ludwig van Beethoven          	0.000563399981777
+                                                            	Wolfgang Amadeus Mozart       	0.000524006444312
+                                                            	Johann Sebastian Bach         	0.000450025938563
+                                                            	Ennio Morricone               	0.000429437525211
+                                                            	Howard Shore                  	0.000358689273117
+                                                            	Faul & Wad Ad vs. Pnau        	0.000314140341389
+                                                            	Bring Me the Horizon          	0.000210352042706
+                                                            	Ludovico Einaudi              	0.000195210813764
+                                                            	Frédéric Chopin               	0.000145316425787
+                                                            	Parkway Drive                 	0.000107595891116
+                                                            	Meshuggah                     	6.85155822008e-05
+                                                            	Amon Amarth                   	2.06522862467e-05
+                                                            	Architects                    	1.97934620274e-05
+                                                            	Eluveitie                     	-1.25435649197e-05
+                                                            	Korpiklaani                   	-5.84701797002e-05
+                                                            	Gojira                        	-7.02627379562e-05
+                                                            	Behemoth                      	-7.45327668865e-05
+                                                            	Sabaton                       	-0.000130727716669
+                                                            	Hall & Oates                  	-0.000181104002999
+                                                            	Oliver Heldens                	-0.000215982887125
+                                                            	Mr. Probz                     	-0.00023822549673
+                                                            	Iron & Wine                   	-0.000350635863115

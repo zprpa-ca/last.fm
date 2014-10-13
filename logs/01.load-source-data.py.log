@@ -1,0 +1,1120 @@
+
+2014-07-10 18:05:19.221899-> 
+2014-07-10 18:05:19.221899-> ******************************************************************************************************************************************************
+2014-07-10 18:05:19.221981-> Create and setup database...Done!
+2014-07-10 18:05:19.453527-> ******************************************************************************************************************************************************
+2014-07-10 18:05:19.453527-> 
+2014-07-10 18:05:19.453619-> 
+2014-07-10 18:05:19.453619-> Loading Top-1000 artists...
+2014-07-10 18:05:20.554612-> Received pg# 1 with 100 records.
+2014-07-10 18:05:22.957603-> Received pg# 2 with 100 records.
+2014-07-10 18:05:25.558566-> Received pg# 3 with 100 records.
+2014-07-10 18:05:27.961925-> Received pg# 4 with 100 records.
+2014-07-10 18:05:30.406617-> Received pg# 5 with 100 records.
+2014-07-10 18:05:32.879046-> Received pg# 6 with 100 records.
+2014-07-10 18:05:35.297799-> Received pg# 7 with 100 records.
+2014-07-10 18:05:37.674339-> Received pg# 8 with 100 records.
+2014-07-10 18:05:40.144677-> Received pg# 9 with 100 records.
+2014-07-10 18:05:42.578362-> Received pg# 10 with 100 records.
+2014-07-10 18:05:44.093544-> Loaded 1,000 records.
+2014-07-10 18:05:44.093589-> ******************************************************************************************************************************************************
+2014-07-10 18:05:44.093589-> 
+2014-07-10 18:05:44.093612-> Loading tags for Top-1000 artists...
+2014-07-10 18:05:44.471819-> Loaded     78 tags for the artist 2 Chainz.
+2014-07-10 18:05:46.377937-> Loaded    100 tags for the artist 2NE1.
+2014-07-10 18:05:48.282941-> Loaded    100 tags for the artist 2Pac.
+2014-07-10 18:05:50.216365-> Loaded    100 tags for the artist 3 Doors Down.
+2014-07-10 18:05:52.153960-> Loaded    100 tags for the artist 30 Seconds to Mars.
+2014-07-10 18:05:54.103469-> Loaded    100 tags for the artist 3OH!3.
+2014-07-10 18:05:56.014878-> Loaded     42 tags for the artist 5 Seconds of Summer.
+2014-07-10 18:05:57.978079-> Loaded    100 tags for the artist 50 Cent.
+2014-07-10 18:05:59.901419-> Loaded    100 tags for the artist 65daysofstatic.
+2014-07-10 18:06:01.864283-> Loaded    100 tags for the artist A Day to Remember.
+2014-07-10 18:06:03.710733-> Loaded     24 tags for the artist A Great Big World.
+2014-07-10 18:06:05.688844-> Loaded    100 tags for the artist A Perfect Circle.
+2014-07-10 18:06:07.642608-> Loaded    100 tags for the artist A Tribe Called Quest.
+2014-07-10 18:06:10.381776-> Loaded    100 tags for the artist A$AP Rocky.
+2014-07-10 18:06:13.178407-> Loaded    100 tags for the artist ABBA.
+2014-07-10 18:06:15.530069-> Loaded    100 tags for the artist AC/DC.
+2014-07-10 18:06:17.730025-> Loaded    100 tags for the artist AFI.
+2014-07-10 18:06:19.707477-> Loaded    100 tags for the artist AWOLNATION.
+2014-07-10 18:06:21.638965-> Loaded    100 tags for the artist Ab-Soul.
+2014-07-10 18:06:23.505948-> Loaded     27 tags for the artist Above & Beyond.
+2014-07-10 18:06:25.507942-> Loaded    100 tags for the artist Ace of Base.
+2014-07-10 18:06:27.472671-> Loaded    100 tags for the artist Adele.
+2014-07-10 18:06:29.442734-> Loaded    100 tags for the artist Aerosmith.
+2014-07-10 18:06:31.377747-> Loaded     97 tags for the artist Afrojack.
+2014-07-10 18:06:33.335077-> Loaded    100 tags for the artist Against Me!.
+2014-07-10 18:06:35.265424-> Loaded    100 tags for the artist Agnes Obel.
+2014-07-10 18:06:37.177546-> Loaded    100 tags for the artist Air.
+2014-07-10 18:06:39.129303-> Loaded    100 tags for the artist Al Green.
+2014-07-10 18:06:41.029317-> Loaded    100 tags for the artist Alabama Shakes.
+2014-07-10 18:06:42.956801-> Loaded    100 tags for the artist Alanis Morissette.
+2014-07-10 18:06:44.917899-> Loaded    100 tags for the artist Alex Clare.
+2014-07-10 18:06:46.853140-> Loaded    100 tags for the artist Alex Turner.
+2014-07-10 18:06:48.813077-> Loaded    100 tags for the artist Alice Cooper.
+2014-07-10 18:06:50.774282-> Loaded    100 tags for the artist Alice in Chains.
+2014-07-10 18:06:52.705634-> Loaded    100 tags for the artist Alicia Keys.
+2014-07-10 18:06:54.677183-> Loaded    100 tags for the artist All Time Low.
+2014-07-10 18:06:56.531590-> Loaded     17 tags for the artist Alle Farben.
+2014-07-10 18:06:58.497182-> Loaded    100 tags for the artist Aloe Blacc.
+2014-07-10 18:07:00.468777-> Loaded    100 tags for the artist Alter Bridge.
+2014-07-10 18:07:02.386358-> Loaded    100 tags for the artist AlunaGeorge.
+2014-07-10 18:07:04.271577-> Loaded    100 tags for the artist America.
+2014-07-10 18:07:06.128810-> Loaded     26 tags for the artist American Authors.
+2014-07-10 18:07:08.052597-> Loaded    100 tags for the artist Amon Amarth.
+2014-07-10 18:07:09.946936-> Loaded    100 tags for the artist Amon Tobin.
+2014-07-10 18:07:11.896914-> Loaded    100 tags for the artist Amy Winehouse.
+2014-07-10 18:07:13.831747-> Loaded    100 tags for the artist Anathema.
+2014-07-10 18:07:15.806154-> Loaded    100 tags for the artist Anberlin.
+2014-07-10 18:07:17.721545-> Loaded    100 tags for the artist Andrew Bird.
+2014-07-10 18:07:19.609327-> Loaded     20 tags for the artist Angus & Julia Stone.
+2014-07-10 18:07:21.578383-> Loaded    100 tags for the artist Animal Collective.
+2014-07-10 18:07:23.528612-> Loaded    100 tags for the artist Anthrax.
+2014-07-10 18:07:25.496803-> Loaded    100 tags for the artist Aphex Twin.
+2014-07-10 18:07:27.415634-> Loaded    100 tags for the artist Apocalyptica.
+2014-07-10 18:07:29.389399-> Loaded    100 tags for the artist Arcade Fire.
+2014-07-10 18:07:31.307349-> Loaded    100 tags for the artist Arch Enemy.
+2014-07-10 18:07:33.324352-> Loaded    100 tags for the artist Architects.
+2014-07-10 18:07:35.321066-> Loaded    100 tags for the artist Architecture in Helsinki.
+2014-07-10 18:07:37.277141-> Loaded    100 tags for the artist Archive.
+2014-07-10 18:07:39.206601-> Loaded    100 tags for the artist Arctic Monkeys.
+2014-07-10 18:07:41.204185-> Loaded    100 tags for the artist Aretha Franklin.
+2014-07-10 18:07:43.127045-> Loaded    100 tags for the artist Ariana Grande.
+2014-07-10 18:07:45.028489-> Loaded    100 tags for the artist Armin van Buuren.
+2014-07-10 18:07:46.934119-> Loaded    100 tags for the artist Asking Alexandria.
+2014-07-10 18:07:48.803432-> Loaded     40 tags for the artist Atlas Genius.
+2014-07-10 18:07:50.865194-> Loaded    100 tags for the artist Atmosphere.
+2014-07-10 18:07:52.789644-> Loaded    100 tags for the artist Audioslave.
+2014-07-10 18:07:54.716508-> Loaded    100 tags for the artist Austin Mahone.
+2014-07-10 18:07:56.642903-> Loaded    100 tags for the artist Austra.
+2014-07-10 18:07:58.579604-> Loaded    100 tags for the artist Avenged Sevenfold.
+2014-07-10 18:08:00.528210-> Loaded    100 tags for the artist Avicii.
+2014-07-10 18:08:02.471015-> Loaded    100 tags for the artist Avril Lavigne.
+2014-07-10 18:08:04.405820-> Loaded    100 tags for the artist Azealia Banks.
+2014-07-10 18:08:06.307104-> Loaded    100 tags for the artist B.o.B.
+2014-07-10 18:08:08.291279-> Loaded     28 tags for the artist BROODS.
+2014-07-10 18:08:10.820297-> Loaded    100 tags for the artist Backstreet Boys.
+2014-07-10 18:08:13.335350-> Loaded    100 tags for the artist Bad Religion.
+2014-07-10 18:08:15.489713-> Loaded     15 tags for the artist Bad Suns.
+2014-07-10 18:08:17.833769-> Loaded    100 tags for the artist Band of Horses.
+2014-07-10 18:08:19.815345-> Loaded    100 tags for the artist Band of Skulls.
+2014-07-10 18:08:21.708361-> Loaded     71 tags for the artist Banks.
+2014-07-10 18:08:23.664343-> Loaded    100 tags for the artist Basement Jaxx.
+2014-07-10 18:08:25.611000-> Loaded    100 tags for the artist Bassnectar.
+2014-07-10 18:08:27.559976-> Loaded    100 tags for the artist Bastille.
+2014-07-10 18:08:29.513085-> Loaded    100 tags for the artist Bat for Lashes.
+2014-07-10 18:08:31.430289-> Loaded    100 tags for the artist Baths.
+2014-07-10 18:08:33.404812-> Loaded    100 tags for the artist Beach House.
+2014-07-10 18:08:35.318058-> Loaded    100 tags for the artist Beastie Boys.
+2014-07-10 18:08:37.272337-> Loaded    100 tags for the artist Beck.
+2014-07-10 18:08:39.115172-> Loaded     15 tags for the artist Becky G.
+2014-07-10 18:08:41.073173-> Loaded    100 tags for the artist Bee Gees.
+2014-07-10 18:08:43.054706-> Loaded    100 tags for the artist Behemoth.
+2014-07-10 18:08:45.033039-> Loaded    100 tags for the artist Beirut.
+2014-07-10 18:08:46.986367-> Loaded    100 tags for the artist Belle and Sebastian.
+2014-07-10 18:08:48.979703-> Loaded    100 tags for the artist Ben Harper.
+2014-07-10 18:08:50.947296-> Loaded    100 tags for the artist Ben Howard.
+2014-07-10 18:08:52.882768-> Loaded     72 tags for the artist Benjamin Francis Leftwich.
+2014-07-10 18:08:54.836355-> Loaded    100 tags for the artist Benny Benassi.
+2014-07-10 18:08:56.759928-> Loaded    100 tags for the artist Best Coast.
+2014-07-10 18:08:58.652052-> Loaded    100 tags for the artist Beyoncé.
+2014-07-10 18:09:00.559145-> Loaded    100 tags for the artist Bibio.
+2014-07-10 18:09:02.083645-> Pausing for 5 minutes...
+2014-07-10 18:14:03.748508-> Loaded    100 tags for the artist Biffy Clyro.
+2014-07-10 18:14:05.682016-> Loaded    100 tags for the artist Big Sean.
+2014-07-10 18:14:07.595202-> Loaded    100 tags for the artist Bill Withers.
+2014-07-10 18:14:10.379331-> Loaded    100 tags for the artist Billie Holiday.
+2014-07-10 18:14:12.855160-> Loaded    100 tags for the artist Billy Idol.
+2014-07-10 18:14:15.203385-> Loaded    100 tags for the artist Billy Joel.
+2014-07-10 18:14:17.299201-> Loaded    100 tags for the artist Billy Talent.
+2014-07-10 18:14:19.217473-> Loaded    100 tags for the artist Birdy.
+2014-07-10 18:14:21.194180-> Loaded    100 tags for the artist Björk.
+2014-07-10 18:14:23.140534-> Loaded    100 tags for the artist Black Eyed Peas.
+2014-07-10 18:14:25.116484-> Loaded    100 tags for the artist Black Label Society.
+2014-07-10 18:14:27.042908-> Loaded    100 tags for the artist Black Rebel Motorcycle Club.
+2014-07-10 18:14:28.981596-> Loaded    100 tags for the artist Black Sabbath.
+2014-07-10 18:14:30.892314-> Loaded     17 tags for the artist Bleachers.
+2014-07-10 18:14:32.849472-> Loaded    100 tags for the artist Blind Guardian.
+2014-07-10 18:14:34.804811-> Loaded    100 tags for the artist Bloc Party.
+2014-07-10 18:14:36.763698-> Loaded    100 tags for the artist Blondie.
+2014-07-10 18:14:38.718127-> Loaded     90 tags for the artist Blood Orange.
+2014-07-10 18:14:40.660868-> Loaded    100 tags for the artist Bloodhound Gang.
+2014-07-10 18:14:42.592421-> Loaded    100 tags for the artist Blue Foundation.
+2014-07-10 18:14:44.561212-> Loaded    100 tags for the artist Blue Öyster Cult.
+2014-07-10 18:14:46.493286-> Loaded    100 tags for the artist Blur.
+2014-07-10 18:14:48.401774-> Loaded    100 tags for the artist Boards of Canada.
+2014-07-10 18:14:50.369214-> Loaded    100 tags for the artist Bob Dylan.
+2014-07-10 18:14:52.301850-> Loaded    100 tags for the artist Bob Marley.
+2014-07-10 18:14:54.201192-> Loaded    100 tags for the artist Bob Marley & The Wailers.
+2014-07-10 18:14:56.111501-> Loaded    100 tags for the artist Bobby Womack.
+2014-07-10 18:14:58.052669-> Loaded    100 tags for the artist Bombay Bicycle Club.
+2014-07-10 18:14:59.968614-> Loaded    100 tags for the artist Bon Iver.
+2014-07-10 18:15:01.930676-> Loaded    100 tags for the artist Bon Jovi.
+2014-07-10 18:15:03.885787-> Loaded    100 tags for the artist Bonobo.
+2014-07-10 18:15:05.814845-> Loaded    100 tags for the artist Boston.
+2014-07-10 18:15:07.812499-> Loaded    100 tags for the artist Boyce Avenue.
+2014-07-10 18:15:09.795896-> Loaded    100 tags for the artist Brand New.
+2014-07-10 18:15:11.765477-> Loaded    100 tags for the artist Breaking Benjamin.
+2014-07-10 18:15:13.709451-> Loaded    100 tags for the artist Brian Eno.
+2014-07-10 18:15:15.664554-> Loaded    100 tags for the artist Bright Eyes.
+2014-07-10 18:15:17.795328-> Loaded    100 tags for the artist Bring Me the Horizon.
+2014-07-10 18:15:19.690334-> Loaded    100 tags for the artist Britney Spears.
+2014-07-10 18:15:21.622401-> Loaded    100 tags for the artist Broken Bells.
+2014-07-10 18:15:23.575128-> Loaded    100 tags for the artist Broken Social Scene.
+2014-07-10 18:15:25.509484-> Loaded    100 tags for the artist Bruce Springsteen.
+2014-07-10 18:15:27.441345-> Loaded    100 tags for the artist Bruno Mars.
+2014-07-10 18:15:29.406232-> Loaded    100 tags for the artist Bryan Adams.
+2014-07-10 18:15:31.314837-> Loaded    100 tags for the artist Buffalo Springfield.
+2014-07-10 18:15:33.205363-> Loaded    100 tags for the artist Bullet for My Valentine.
+2014-07-10 18:15:35.163365-> Loaded    100 tags for the artist Burial.
+2014-07-10 18:15:37.101856-> Loaded    100 tags for the artist Bush.
+2014-07-10 18:15:39.009720-> Loaded    100 tags for the artist Busta Rhymes.
+2014-07-10 18:15:40.908052-> Loaded     55 tags for the artist C2C.
+2014-07-10 18:15:42.850821-> Loaded    100 tags for the artist CHVRCHES.
+2014-07-10 18:15:44.801979-> Loaded    100 tags for the artist Cage the Elephant.
+2014-07-10 18:15:46.710423-> Loaded    100 tags for the artist Cake.
+2014-07-10 18:15:48.679910-> Loaded    100 tags for the artist Calvin Harris.
+2014-07-10 18:15:50.624310-> Loaded     87 tags for the artist Capital Cities.
+2014-07-10 18:15:52.553489-> Loaded    100 tags for the artist Caribou.
+2014-07-10 18:15:54.462411-> Loaded    100 tags for the artist Carly Rae Jepsen.
+2014-07-10 18:15:56.365948-> Loaded    100 tags for the artist Cash Cash.
+2014-07-10 18:15:58.351684-> Loaded    100 tags for the artist Cat Power.
+2014-07-10 18:16:00.309937-> Loaded    100 tags for the artist Cat Stevens.
+2014-07-10 18:16:02.159591-> Loaded     21 tags for the artist Cazzette.
+2014-07-10 18:16:04.159950-> Loaded    100 tags for the artist Celldweller.
+2014-07-10 18:16:06.059664-> Loaded    100 tags for the artist Chairlift.
+2014-07-10 18:16:08.038507-> Loaded    100 tags for the artist Charli XCX.
+2014-07-10 18:16:10.622355-> Loaded     64 tags for the artist Chase & Status.
+2014-07-10 18:16:12.733301-> Loaded    100 tags for the artist Cher.
+2014-07-10 18:16:15.322246-> Loaded    100 tags for the artist Cher Lloyd.
+2014-07-10 18:16:17.655373-> Loaded     93 tags for the artist Chet Faker.
+2014-07-10 18:16:19.618506-> Loaded    100 tags for the artist Chevelle.
+2014-07-10 18:16:21.552165-> Loaded    100 tags for the artist Chicago.
+2014-07-10 18:16:23.483397-> Loaded    100 tags for the artist Childish Gambino.
+2014-07-10 18:16:25.434138-> Loaded    100 tags for the artist Children of Bodom.
+2014-07-10 18:16:27.411097-> Loaded    100 tags for the artist Chris Brown.
+2014-07-10 18:16:29.399108-> Loaded    100 tags for the artist Christina Aguilera.
+2014-07-10 18:16:31.340924-> Loaded    100 tags for the artist Christina Perri.
+2014-07-10 18:16:33.263585-> Loaded    100 tags for the artist Chromatics.
+2014-07-10 18:16:35.172127-> Loaded    100 tags for the artist Chromeo.
+2014-07-10 18:16:37.136623-> Loaded    100 tags for the artist Chuck Berry.
+2014-07-10 18:16:39.126174-> Loaded    100 tags for the artist Ciara.
+2014-07-10 18:16:41.095235-> Loaded    100 tags for the artist City and Colour.
+2014-07-10 18:16:43.008294-> Loaded     56 tags for the artist Clean Bandit.
+2014-07-10 18:16:44.956203-> Loaded    100 tags for the artist Clint Mansell.
+2014-07-10 18:16:46.899783-> Loaded    100 tags for the artist Cloud Nothings.
+2014-07-10 18:16:48.873579-> Loaded    100 tags for the artist Cocteau Twins.
+2014-07-10 18:16:50.891950-> Loaded    100 tags for the artist Colbie Caillat.
+2014-07-10 18:16:52.847907-> Loaded    100 tags for the artist Cold War Kids.
+2014-07-10 18:16:54.788192-> Loaded    100 tags for the artist Coldplay.
+2014-07-10 18:16:56.751956-> Loaded    100 tags for the artist College.
+2014-07-10 18:16:58.686598-> Loaded    100 tags for the artist Common.
+2014-07-10 18:17:00.708642-> Loaded    100 tags for the artist Counting Crows.
+2014-07-10 18:17:02.668287-> Loaded    100 tags for the artist Cream.
+2014-07-10 18:17:04.641210-> Loaded    100 tags for the artist Creed.
+2014-07-10 18:17:06.586965-> Loaded    100 tags for the artist Creedence Clearwater Revival.
+2014-07-10 18:17:08.519211-> Loaded     86 tags for the artist Cro.
+2014-07-10 18:17:10.460142-> Loaded    100 tags for the artist Crystal Castles.
+2014-07-10 18:17:12.411315-> Loaded    100 tags for the artist Crystal Fighters.
+2014-07-10 18:17:14.337804-> Loaded    100 tags for the artist Cults.
+2014-07-10 18:17:16.259715-> Loaded    100 tags for the artist Cut Copy.
+2014-07-10 18:17:18.196343-> Loaded    100 tags for the artist Cyndi Lauper.
+2014-07-10 18:17:20.126234-> Loaded    100 tags for the artist Cypress Hill.
+2014-07-10 18:17:21.641276-> Pausing for 5 minutes...
+2014-07-10 18:22:23.147469-> Loaded    100 tags for the artist Céline Dion.
+2014-07-10 18:22:25.089340-> Loaded    100 tags for the artist DJ Fresh.
+2014-07-10 18:22:27.049971-> Loaded    100 tags for the artist DJ Shadow.
+2014-07-10 18:22:28.865931-> Loaded      9 tags for the artist DJ Snake & Lil Jon.
+2014-07-10 18:22:30.787375-> Loaded    100 tags for the artist DMX.
+2014-07-10 18:22:32.726541-> Loaded    100 tags for the artist Daft Punk.
+2014-07-10 18:22:34.695453-> Loaded    100 tags for the artist Damien Rice.
+2014-07-10 18:22:36.628991-> Loaded    100 tags for the artist Damon Albarn.
+2014-07-10 18:22:38.453476-> Loaded     28 tags for the artist Dan Croll.
+2014-07-10 18:22:40.383580-> Loaded    100 tags for the artist Danny Brown.
+2014-07-10 18:22:42.323185-> Loaded    100 tags for the artist Darkside.
+2014-07-10 18:22:44.264567-> Loaded    100 tags for the artist Daughter.
+2014-07-10 18:22:46.219558-> Loaded    100 tags for the artist Daughtry.
+2014-07-10 18:22:48.154129-> Loaded    100 tags for the artist Dave Matthews Band.
+2014-07-10 18:22:50.072522-> Loaded    100 tags for the artist David Bowie.
+2014-07-10 18:22:51.985461-> Loaded    100 tags for the artist David Gray.
+2014-07-10 18:22:53.909446-> Loaded    100 tags for the artist David Guetta.
+2014-07-10 18:22:55.802989-> Loaded    100 tags for the artist Death.
+2014-07-10 18:22:57.738278-> Loaded    100 tags for the artist Death Cab for Cutie.
+2014-07-10 18:22:59.667500-> Loaded    100 tags for the artist Death Grips.
+2014-07-10 18:23:01.631059-> Loaded    100 tags for the artist Deep Purple.
+2014-07-10 18:23:03.523433-> Loaded    100 tags for the artist Deerhunter.
+2014-07-10 18:23:05.445581-> Loaded    100 tags for the artist Def Leppard.
+2014-07-10 18:23:07.410410-> Loaded    100 tags for the artist Deftones.
+2014-07-10 18:23:09.354225-> Loaded    100 tags for the artist Demi Lovato.
+2014-07-10 18:23:11.190676-> Loaded      9 tags for the artist Deorro.
+2014-07-10 18:23:13.164267-> Loaded    100 tags for the artist Depeche Mode.
+2014-07-10 18:23:15.118663-> Loaded    100 tags for the artist Destiny's Child.
+2014-07-10 18:23:17.074157-> Loaded    100 tags for the artist Devendra Banhart.
+2014-07-10 18:23:19.015205-> Loaded    100 tags for the artist Dido.
+2014-07-10 18:23:20.951905-> Loaded    100 tags for the artist Die Antwoord.
+2014-07-10 18:23:22.948472-> Loaded    100 tags for the artist Digitalism.
+2014-07-10 18:23:24.925089-> Loaded    100 tags for the artist Dinosaur Jr..
+2014-07-10 18:23:26.866876-> Loaded    100 tags for the artist Dio.
+2014-07-10 18:23:28.852777-> Loaded    100 tags for the artist Dire Straits.
+2014-07-10 18:23:30.833545-> Loaded    100 tags for the artist Disclosure.
+2014-07-10 18:23:32.795117-> Loaded    100 tags for the artist Disturbed.
+2014-07-10 18:23:34.737343-> Loaded    100 tags for the artist Django Django.
+2014-07-10 18:23:36.658529-> Loaded    100 tags for the artist Dolly Parton.
+2014-07-10 18:23:38.611313-> Loaded    100 tags for the artist Dr. Dre.
+2014-07-10 18:23:40.581516-> Loaded    100 tags for the artist Drake.
+2014-07-10 18:23:42.498823-> Loaded    100 tags for the artist Dream Theater.
+2014-07-10 18:23:44.424563-> Loaded    100 tags for the artist Dropkick Murphys.
+2014-07-10 18:23:46.362064-> Loaded    100 tags for the artist Drowning Pool.
+2014-07-10 18:23:48.261165-> Loaded     34 tags for the artist Duke Dumont.
+2014-07-10 18:23:50.204778-> Loaded    100 tags for the artist Duran Duran.
+2014-07-10 18:23:52.201178-> Loaded    100 tags for the artist Dusty Springfield.
+2014-07-10 18:23:54.138996-> Loaded    100 tags for the artist Eagles.
+2014-07-10 18:23:56.128918-> Loaded    100 tags for the artist Eagles of Death Metal.
+2014-07-10 18:23:58.074373-> Loaded    100 tags for the artist Earl Sweatshirt.
+2014-07-10 18:23:59.935154-> 
+2014-07-10 18:23:59.935154-> Loading tags for the artist Earth, Wind & Fire failed!
+2014-07-10 18:23:59.935215-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 18:23:59.935233-> Error value:
+'tag'
+2014-07-10 18:23:59.935233-> 
+2014-07-10 18:28:55.421307-> Loaded     89 tags for the artist Echo & the Bunnymen.
+2014-07-10 18:28:57.371054-> Loaded    100 tags for the artist Ed Sheeran.
+2014-07-10 18:28:59.310264-> Loaded    100 tags for the artist Eddie Vedder.
+2014-07-10 18:29:01.253704-> Loaded    100 tags for the artist Editors.
+2014-07-10 18:29:03.115931-> 
+2014-07-10 18:29:03.115931-> Loading tags for the artist Edward Sharpe & The Magnetic Zeros failed!
+2014-07-10 18:29:03.116011-> Error type:
+<type 'exceptions.TypeError'>
+2014-07-10 18:29:03.116029-> Error value:
+string indices must be integers
+2014-07-10 18:29:03.116029-> 
+2014-07-10 18:29:22.370388-> Loaded    100 tags for the artist Eels.
+2014-07-10 18:29:24.314889-> Loaded    100 tags for the artist Elbow.
+2014-07-10 18:29:26.186256-> Loaded     41 tags for the artist Electric Guest.
+2014-07-10 18:29:28.133274-> Loaded    100 tags for the artist Electric Light Orchestra.
+2014-07-10 18:29:30.028393-> Loaded    100 tags for the artist Ella Fitzgerald.
+2014-07-10 18:29:31.875752-> Loaded     13 tags for the artist Ella Henderson.
+2014-07-10 18:29:33.813788-> Loaded    100 tags for the artist Ellie Goulding.
+2014-07-10 18:29:35.750331-> Loaded    100 tags for the artist Elliott Smith.
+2014-07-10 18:29:37.755519-> Loaded    100 tags for the artist Elton John.
+2014-07-10 18:29:39.696784-> Loaded    100 tags for the artist Eluveitie.
+2014-07-10 18:29:41.632887-> Loaded    100 tags for the artist Elvis Presley.
+2014-07-10 18:29:43.578200-> Loaded    100 tags for the artist Emancipator.
+2014-07-10 18:29:45.499909-> Loaded    100 tags for the artist Emeli Sandé.
+2014-07-10 18:29:47.461443-> Loaded    100 tags for the artist Emilíana Torrini.
+2014-07-10 18:29:49.429171-> Loaded    100 tags for the artist Eminem.
+2014-07-10 18:29:51.362833-> Loaded    100 tags for the artist Empire of the Sun.
+2014-07-10 18:29:53.295973-> Loaded    100 tags for the artist Ennio Morricone.
+2014-07-10 18:29:55.272693-> Loaded    100 tags for the artist Enrique Iglesias.
+2014-07-10 18:29:57.229822-> Loaded    100 tags for the artist Enter Shikari.
+2014-07-10 18:29:59.148549-> Loaded    100 tags for the artist Enya.
+2014-07-10 18:30:01.069346-> Loaded    100 tags for the artist Epica.
+2014-07-10 18:30:02.989120-> Loaded    100 tags for the artist Eric Clapton.
+2014-07-10 18:30:04.894884-> Loaded    100 tags for the artist Escape the Fate.
+2014-07-10 18:30:06.806793-> Loaded    100 tags for the artist Etta James.
+2014-07-10 18:30:09.372336-> Loaded    100 tags for the artist Europe.
+2014-07-10 18:30:11.868973-> Loaded    100 tags for the artist Eurythmics.
+2014-07-10 18:30:14.545178-> Loaded    100 tags for the artist Evanescence.
+2014-07-10 18:30:17.182049-> Loaded    100 tags for the artist Every Time I Die.
+2014-07-10 18:30:19.120663-> Loaded    100 tags for the artist Example.
+2014-07-10 18:30:21.095357-> Loaded    100 tags for the artist Explosions in the Sky.
+2014-07-10 18:30:23.024495-> Loaded     70 tags for the artist FKA Twigs.
+2014-07-10 18:30:24.924493-> Loaded    100 tags for the artist Faith No More.
+2014-07-10 18:30:26.853562-> Loaded    100 tags for the artist Faithless.
+2014-07-10 18:30:28.755719-> Loaded    100 tags for the artist Fall Out Boy.
+2014-07-10 18:30:30.686147-> Loaded    100 tags for the artist Far East Movement.
+2014-07-10 18:30:32.613700-> Loaded    100 tags for the artist Fatboy Slim.
+2014-07-10 18:30:34.439735-> Loaded     23 tags for the artist Faul & Wad Ad vs. Pnau.
+2014-07-10 18:30:36.364454-> Loaded    100 tags for the artist Feed Me.
+2014-07-10 18:30:38.295743-> Loaded    100 tags for the artist Feist.
+2014-07-10 18:30:40.204448-> Loaded    100 tags for the artist Fergie.
+2014-07-10 18:30:42.167989-> Loaded    100 tags for the artist Fever Ray.
+2014-07-10 18:30:44.110940-> Loaded    100 tags for the artist Fink.
+2014-07-10 18:30:46.103908-> Loaded    100 tags for the artist Fiona Apple.
+2014-07-10 18:30:48.001002-> Loaded    100 tags for the artist First Aid Kit.
+2014-07-10 18:30:49.521538-> Pausing for 5 minutes...
+2014-07-10 18:35:51.093455-> Loaded    100 tags for the artist Fitz and the Tantrums.
+2014-07-10 18:35:53.040987-> Loaded    100 tags for the artist Five Finger Death Punch.
+2014-07-10 18:35:54.991455-> Loaded    100 tags for the artist Fleet Foxes.
+2014-07-10 18:35:56.934724-> Loaded    100 tags for the artist Fleetwood Mac.
+2014-07-10 18:35:58.865805-> Loaded    100 tags for the artist Flight Facilities.
+2014-07-10 18:36:00.849281-> Loaded    100 tags for the artist Flo Rida.
+2014-07-10 18:36:02.778952-> Loaded    100 tags for the artist Flogging Molly.
+2014-07-10 18:36:04.601304-> Loaded      5 tags for the artist Florence + the Machine.
+2014-07-10 18:36:06.428455-> Loaded     26 tags for the artist Florida Georgia Line.
+2014-07-10 18:36:08.697880-> Loaded     72 tags for the artist Flume.
+2014-07-10 18:36:10.928839-> Loaded    100 tags for the artist Flux Pavilion.
+2014-07-10 18:36:13.601846-> Loaded    100 tags for the artist Flying Lotus.
+2014-07-10 18:36:15.944361-> Loaded    100 tags for the artist Flyleaf.
+2014-07-10 18:36:18.037622-> Loaded    100 tags for the artist Foals.
+2014-07-10 18:36:19.942461-> Loaded    100 tags for the artist Foo Fighters.
+2014-07-10 18:36:21.839409-> Loaded    100 tags for the artist Foreigner.
+2014-07-10 18:36:23.787834-> Loaded    100 tags for the artist Fort Minor.
+2014-07-10 18:36:25.698590-> Loaded    100 tags for the artist Foster the People.
+2014-07-10 18:36:27.609693-> Loaded    100 tags for the artist Four Tet.
+2014-07-10 18:36:29.570889-> Loaded     83 tags for the artist Foxes.
+2014-07-10 18:36:31.499438-> Loaded    100 tags for the artist Frank Ocean.
+2014-07-10 18:36:33.419695-> Loaded    100 tags for the artist Frank Sinatra.
+2014-07-10 18:36:35.361098-> Loaded    100 tags for the artist Frank Zappa.
+2014-07-10 18:36:37.378359-> Loaded    100 tags for the artist Franz Ferdinand.
+2014-07-10 18:36:39.322972-> Loaded    100 tags for the artist Friendly Fires.
+2014-07-10 18:36:41.246583-> Loaded    100 tags for the artist Frédéric Chopin.
+2014-07-10 18:36:43.162349-> Loaded    100 tags for the artist Fugees.
+2014-07-10 18:36:45.048374-> Loaded     70 tags for the artist Future.
+2014-07-10 18:36:46.978718-> Loaded    100 tags for the artist Future Islands.
+2014-07-10 18:36:48.877858-> Loaded     83 tags for the artist G-Eazy.
+2014-07-10 18:36:50.826179-> Loaded    100 tags for the artist Garbage.
+2014-07-10 18:36:52.749678-> Loaded    100 tags for the artist Gavin DeGraw.
+2014-07-10 18:36:54.697849-> Loaded    100 tags for the artist Genesis.
+2014-07-10 18:36:56.526578-> Loaded     30 tags for the artist George Ezra.
+2014-07-10 18:36:58.427319-> Loaded    100 tags for the artist George Michael.
+2014-07-10 18:37:00.384181-> Loaded    100 tags for the artist Ghost.
+2014-07-10 18:37:02.276205-> Loaded     29 tags for the artist Glass Animals.
+2014-07-10 18:37:04.235884-> Loaded    100 tags for the artist Glee Cast.
+2014-07-10 18:37:06.189370-> Loaded    100 tags for the artist Gnarls Barkley.
+2014-07-10 18:37:08.125265-> Loaded    100 tags for the artist God Is An Astronaut.
+2014-07-10 18:37:10.086290-> Loaded    100 tags for the artist Godsmack.
+2014-07-10 18:37:11.995051-> Loaded    100 tags for the artist Gojira.
+2014-07-10 18:37:13.946534-> Loaded    100 tags for the artist Gold Panda.
+2014-07-10 18:37:15.867478-> Loaded    100 tags for the artist Goldfrapp.
+2014-07-10 18:37:17.808380-> Loaded    100 tags for the artist Goo Goo Dolls.
+2014-07-10 18:37:19.772439-> Loaded    100 tags for the artist Good Charlotte.
+2014-07-10 18:37:21.600672-> Loaded     13 tags for the artist Gorgon City.
+2014-07-10 18:37:23.534671-> Loaded    100 tags for the artist Gorillaz.
+2014-07-10 18:37:25.455433-> Loaded    100 tags for the artist Gossip.
+2014-07-10 18:37:27.421911-> Loaded    100 tags for the artist Gotye.
+2014-07-10 18:37:29.431664-> Loaded     98 tags for the artist Gramatik.
+2014-07-10 18:37:31.376968-> Loaded    100 tags for the artist Grateful Dead.
+2014-07-10 18:37:33.314608-> Loaded    100 tags for the artist Green Day.
+2014-07-10 18:37:35.727189-> Loaded    100 tags for the artist Grimes.
+2014-07-10 18:37:37.627634-> Loaded    100 tags for the artist Grizzly Bear.
+2014-07-10 18:37:39.576969-> Loaded    100 tags for the artist Groove Armada.
+2014-07-10 18:37:41.534937-> Loaded    100 tags for the artist Grouplove.
+2014-07-10 18:37:43.480266-> Loaded    100 tags for the artist Guano Apes.
+2014-07-10 18:37:45.374710-> Loaded    100 tags for the artist Guns N' Roses.
+2014-07-10 18:37:47.513613-> Loaded    100 tags for the artist Gwen Stefani.
+2014-07-10 18:37:49.441038-> Loaded    100 tags for the artist Gym Class Heroes.
+2014-07-10 18:37:51.614657-> Loaded    100 tags for the artist HAIM.
+2014-07-10 18:37:53.560040-> Loaded    100 tags for the artist HIM.
+2014-07-10 18:37:55.470428-> Loaded    100 tags for the artist Halestorm.
+2014-07-10 18:37:57.304571-> Loaded      4 tags for the artist Hall & Oates.
+2014-07-10 18:37:59.251259-> Loaded    100 tags for the artist Hammock.
+2014-07-10 18:38:01.696127-> Loaded    100 tags for the artist Hans Zimmer.
+2014-07-10 18:38:03.601434-> Loaded     49 tags for the artist Hardwell.
+2014-07-10 18:38:05.494304-> Loaded    100 tags for the artist Heart.
+2014-07-10 18:38:07.454618-> Loaded    100 tags for the artist Helios.
+2014-07-10 18:38:09.728494-> Loaded    100 tags for the artist Helloween.
+2014-07-10 18:38:12.332471-> Loaded    100 tags for the artist Hole.
+2014-07-10 18:38:14.657979-> Loaded    100 tags for the artist Hollywood Undead.
+2014-07-10 18:38:17.232334-> Loaded    100 tags for the artist Hoobastank.
+2014-07-10 18:38:19.177150-> Loaded    100 tags for the artist Hot Chip.
+2014-07-10 18:38:21.235681-> Loaded    100 tags for the artist How to Dress Well.
+2014-07-10 18:38:23.230688-> Loaded    100 tags for the artist Howard Shore.
+2014-07-10 18:38:25.113605-> Loaded     25 tags for the artist Hozier.
+2014-07-10 18:38:27.037224-> Loaded    100 tags for the artist Hurts.
+2014-07-10 18:38:28.944942-> Loaded    100 tags for the artist INXS.
+2014-07-10 18:38:30.897770-> Loaded    100 tags for the artist Ice Cube.
+2014-07-10 18:38:33.326950-> Loaded    100 tags for the artist Icona Pop.
+2014-07-10 18:38:35.265215-> Loaded    100 tags for the artist Idina Menzel.
+2014-07-10 18:38:37.225513-> Loaded    100 tags for the artist Iggy Azalea.
+2014-07-10 18:38:39.150745-> Loaded    100 tags for the artist Iggy Pop.
+2014-07-10 18:38:41.109293-> Loaded    100 tags for the artist Imagine Dragons.
+2014-07-10 18:38:43.079791-> Loaded    100 tags for the artist Imogen Heap.
+2014-07-10 18:38:44.993935-> Loaded    100 tags for the artist In Flames.
+2014-07-10 18:38:46.934413-> Loaded    100 tags for the artist Incubus.
+2014-07-10 18:38:48.832844-> Loaded     39 tags for the artist Indila.
+2014-07-10 18:38:50.757711-> Loaded    100 tags for the artist Infected Mushroom.
+2014-07-10 18:38:52.804423-> Loaded    100 tags for the artist Ingrid Michaelson.
+2014-07-10 18:38:54.704220-> Loaded    100 tags for the artist Inna.
+2014-07-10 18:38:56.613665-> Loaded    100 tags for the artist Interpol.
+2014-07-10 18:38:58.467755-> Loaded     28 tags for the artist Iron & Wine.
+2014-07-10 18:39:00.408501-> Loaded    100 tags for the artist Iron Maiden.
+2014-07-10 18:39:02.379140-> Loaded    100 tags for the artist J. Cole.
+2014-07-10 18:39:04.310211-> Loaded    100 tags for the artist Jack Johnson.
+2014-07-10 18:39:06.236223-> Loaded    100 tags for the artist Jack White.
+2014-07-10 18:39:08.110670-> Loaded     49 tags for the artist Jagwar Ma.
+2014-07-10 18:39:09.630228-> Pausing for 5 minutes...
+2014-07-10 18:44:11.700711-> Loaded    100 tags for the artist Jake Bugg.
+2014-07-10 18:44:14.864097-> Loaded    100 tags for the artist James Blake.
+2014-07-10 18:44:17.028081-> Loaded    100 tags for the artist James Blunt.
+2014-07-10 18:44:18.993244-> Loaded    100 tags for the artist James Brown.
+2014-07-10 18:44:20.920373-> Loaded    100 tags for the artist James Morrison.
+2014-07-10 18:44:22.862446-> Loaded    100 tags for the artist James Vincent McMorrow.
+2014-07-10 18:44:24.846698-> Loaded     79 tags for the artist Jamie xx.
+2014-07-10 18:44:26.770641-> Loaded    100 tags for the artist Jamiroquai.
+2014-07-10 18:44:28.745541-> Loaded    100 tags for the artist Janelle Monáe.
+2014-07-10 18:44:30.665173-> Loaded    100 tags for the artist Janet Jackson.
+2014-07-10 18:44:32.629735-> Loaded    100 tags for the artist Janis Joplin.
+2014-07-10 18:44:34.598163-> Loaded    100 tags for the artist Jason Derülo.
+2014-07-10 18:44:36.535960-> Loaded    100 tags for the artist Jason Mraz.
+2014-07-10 18:44:38.567057-> Loaded    100 tags for the artist Jay-Z.
+2014-07-10 18:44:40.556190-> Loaded    100 tags for the artist Jay-Z & Kanye West.
+2014-07-10 18:44:42.500244-> Loaded    100 tags for the artist Jeff Buckley.
+2014-07-10 18:44:44.462284-> Loaded    100 tags for the artist Jefferson Airplane.
+2014-07-10 18:44:46.424531-> Loaded    100 tags for the artist Jennifer Lopez.
+2014-07-10 18:44:48.394389-> Loaded    100 tags for the artist Jessie J.
+2014-07-10 18:44:50.324199-> Loaded    100 tags for the artist Jessie Ware.
+2014-07-10 18:44:52.251950-> Loaded    100 tags for the artist Jet.
+2014-07-10 18:44:54.161293-> Loaded    100 tags for the artist Jethro Tull.
+2014-07-10 18:44:56.029742-> Loaded     61 tags for the artist Jhené Aiko.
+2014-07-10 18:44:57.938452-> Loaded    100 tags for the artist Jimi Hendrix.
+2014-07-10 18:44:59.960760-> Loaded    100 tags for the artist Jimmy Eat World.
+2014-07-10 18:45:01.913637-> Loaded    100 tags for the artist Joe Cocker.
+2014-07-10 18:45:03.850484-> Loaded    100 tags for the artist Johann Sebastian Bach.
+2014-07-10 18:45:05.885327-> Loaded    100 tags for the artist John Coltrane.
+2014-07-10 18:45:07.845701-> Loaded    100 tags for the artist John Legend.
+2014-07-10 18:45:09.778205-> Loaded    100 tags for the artist John Lennon.
+2014-07-10 18:45:11.752074-> Loaded    100 tags for the artist John Mayer.
+2014-07-10 18:45:13.622607-> Loaded     33 tags for the artist John Newman.
+2014-07-10 18:45:15.531304-> Loaded    100 tags for the artist John Williams.
+2014-07-10 18:45:17.478507-> Loaded    100 tags for the artist Johnny Cash.
+2014-07-10 18:45:19.460696-> Loaded    100 tags for the artist Jon Hopkins.
+2014-07-10 18:45:21.358976-> Loaded    100 tags for the artist Joni Mitchell.
+2014-07-10 18:45:23.279002-> Loaded    100 tags for the artist Joshua Radin.
+2014-07-10 18:45:25.218023-> Loaded    100 tags for the artist José González.
+2014-07-10 18:45:27.143001-> Loaded    100 tags for the artist Journey.
+2014-07-10 18:45:29.093384-> Loaded    100 tags for the artist Joy Division.
+2014-07-10 18:45:31.217684-> Loaded    100 tags for the artist Judas Priest.
+2014-07-10 18:45:33.079167-> Loaded     41 tags for the artist Jungle.
+2014-07-10 18:45:35.011882-> Loaded    100 tags for the artist Junip.
+2014-07-10 18:45:36.934921-> Loaded    100 tags for the artist Justice.
+2014-07-10 18:45:38.928063-> Loaded    100 tags for the artist Justin Bieber.
+2014-07-10 18:45:40.829117-> Loaded    100 tags for the artist Justin Timberlake.
+2014-07-10 18:45:42.692140-> Loaded     32 tags for the artist KONGOS.
+2014-07-10 18:45:44.639363-> Loaded    100 tags for the artist KT Tunstall.
+2014-07-10 18:45:46.557067-> Loaded    100 tags for the artist Kaiser Chiefs.
+2014-07-10 18:45:48.496795-> Loaded    100 tags for the artist Kansas.
+2014-07-10 18:45:50.446694-> Loaded    100 tags for the artist Kanye West.
+2014-07-10 18:45:52.374797-> Loaded    100 tags for the artist Kasabian.
+2014-07-10 18:45:54.372521-> Loaded    100 tags for the artist Kaskade.
+2014-07-10 18:45:56.311589-> Loaded    100 tags for the artist Katatonia.
+2014-07-10 18:45:58.263290-> Loaded    100 tags for the artist Kate Bush.
+2014-07-10 18:46:00.266432-> Loaded    100 tags for the artist Kate Nash.
+2014-07-10 18:46:02.195198-> Loaded    100 tags for the artist Katy B.
+2014-07-10 18:46:04.173516-> Loaded    100 tags for the artist Katy Perry.
+2014-07-10 18:46:06.113724-> Loaded    100 tags for the artist Kavinsky.
+2014-07-10 18:46:08.058166-> Loaded    100 tags for the artist Ke$ha.
+2014-07-10 18:46:10.305095-> Loaded    100 tags for the artist Keane.
+2014-07-10 18:46:12.464701-> Loaded     86 tags for the artist Keaton Henson.
+2014-07-10 18:46:15.027942-> Loaded    100 tags for the artist Kelis.
+2014-07-10 18:46:17.211394-> Loaded    100 tags for the artist Kelly Clarkson.
+2014-07-10 18:46:19.143807-> Loaded    100 tags for the artist Kendrick Lamar.
+2014-07-10 18:46:21.054089-> Loaded    100 tags for the artist Kenny Chesney.
+2014-07-10 18:46:23.048410-> Loaded    100 tags for the artist Kid Cudi.
+2014-07-10 18:46:24.980704-> Loaded     63 tags for the artist Kid Ink.
+2014-07-10 18:46:26.925307-> Loaded     68 tags for the artist Kiesza.
+2014-07-10 18:46:28.860007-> Loaded    100 tags for the artist Killswitch Engage.
+2014-07-10 18:46:30.863257-> Loaded    100 tags for the artist King Crimson.
+2014-07-10 18:46:32.831931-> Loaded    100 tags for the artist Kings of Convenience.
+2014-07-10 18:46:34.795731-> Loaded    100 tags for the artist Kings of Leon.
+2014-07-10 18:46:36.730426-> Loaded     48 tags for the artist Kishi Bashi.
+2014-07-10 18:46:38.694525-> Loaded    100 tags for the artist Kiss.
+2014-07-10 18:46:40.572187-> Loaded     32 tags for the artist Klangkarussell.
+2014-07-10 18:46:42.492737-> Loaded    100 tags for the artist Klaxons.
+2014-07-10 18:46:44.379086-> Loaded     17 tags for the artist Klingande.
+2014-07-10 18:46:46.300820-> Loaded    100 tags for the artist Knife Party.
+2014-07-10 18:46:48.175703-> Loaded     53 tags for the artist Kodaline.
+2014-07-10 18:46:50.013435-> Loaded      4 tags for the artist Kool & The Gang.
+2014-07-10 18:46:51.908003-> Loaded    100 tags for the artist Korn.
+2014-07-10 18:46:53.850173-> Loaded    100 tags for the artist Korpiklaani.
+2014-07-10 18:46:55.785148-> Loaded    100 tags for the artist Kraftwerk.
+2014-07-10 18:46:57.698733-> Loaded     46 tags for the artist Krewella.
+2014-07-10 18:46:59.614373-> Loaded    100 tags for the artist Kurt Vile.
+2014-07-10 18:47:01.593342-> Loaded    100 tags for the artist Kylie Minogue.
+2014-07-10 18:47:03.556843-> Loaded    100 tags for the artist LCD Soundsystem.
+2014-07-10 18:47:05.464881-> Loaded    100 tags for the artist LMFAO.
+2014-07-10 18:47:07.422052-> Loaded    100 tags for the artist La Dispute.
+2014-07-10 18:47:09.335244-> Loaded    100 tags for the artist La Roux.
+2014-07-10 18:47:11.428800-> Loaded    100 tags for the artist Lacuna Coil.
+2014-07-10 18:47:13.325653-> Loaded    100 tags for the artist Lady Antebellum.
+2014-07-10 18:47:15.251022-> Loaded    100 tags for the artist Lady Gaga.
+2014-07-10 18:47:17.202329-> Loaded    100 tags for the artist Ladytron.
+2014-07-10 18:47:19.121144-> Loaded    100 tags for the artist Lamb of God.
+2014-07-10 18:47:21.020135-> Loaded    100 tags for the artist Lana Del Rey.
+2014-07-10 18:47:22.958346-> Loaded    100 tags for the artist Laura Marling.
+2014-07-10 18:47:24.943550-> Loaded    100 tags for the artist Led Zeppelin.
+2014-07-10 18:47:26.882482-> Loaded    100 tags for the artist Lenny Kravitz.
+2014-07-10 18:47:28.397084-> Pausing for 5 minutes...
+2014-07-10 18:52:29.926937-> Loaded    100 tags for the artist Leona Lewis.
+2014-07-10 18:52:31.882819-> Loaded    100 tags for the artist Leonard Cohen.
+2014-07-10 18:52:33.812086-> Loaded    100 tags for the artist Lifehouse.
+2014-07-10 18:52:35.749581-> Loaded    100 tags for the artist Lil' Wayne.
+2014-07-10 18:52:37.597889-> 
+2014-07-10 18:52:37.597889-> Loading tags for the artist Lilly Wood & The Prick failed!
+2014-07-10 18:52:37.597999-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 18:52:37.598032-> Error value:
+'tag'
+2014-07-10 18:52:37.598032-> 
+2014-07-10 18:52:52.723697-> Loaded    100 tags for the artist Lily Allen.
+2014-07-10 18:52:54.688092-> Loaded    100 tags for the artist Limp Bizkit.
+2014-07-10 18:52:56.592632-> Loaded    100 tags for the artist Lindsey Stirling.
+2014-07-10 18:52:58.546308-> Loaded    100 tags for the artist Linkin Park.
+2014-07-10 18:53:00.497049-> Loaded    100 tags for the artist Little Dragon.
+2014-07-10 18:53:02.444355-> Loaded    100 tags for the artist Little Mix.
+2014-07-10 18:53:04.443986-> Loaded    100 tags for the artist Local Natives.
+2014-07-10 18:53:06.479944-> Loaded    100 tags for the artist London Grammar.
+2014-07-10 18:53:08.405350-> Loaded    100 tags for the artist Lorde.
+2014-07-10 18:53:10.277676-> Loaded    100 tags for the artist Los Hermanos.
+2014-07-10 18:53:12.279775-> Loaded    100 tags for the artist Lou Reed.
+2014-07-10 18:53:14.192823-> Loaded    100 tags for the artist Louis Armstrong.
+2014-07-10 18:53:16.157349-> Loaded    100 tags for the artist Ludacris.
+2014-07-10 18:53:18.078600-> Loaded    100 tags for the artist Ludovico Einaudi.
+2014-07-10 18:53:20.028386-> Loaded    100 tags for the artist Ludwig van Beethoven.
+2014-07-10 18:53:21.946338-> Loaded     56 tags for the artist Luke Bryan.
+2014-07-10 18:53:23.870720-> Loaded    100 tags for the artist Lupe Fiasco.
+2014-07-10 18:53:25.818453-> Loaded    100 tags for the artist Lykke Li.
+2014-07-10 18:53:27.790979-> Loaded    100 tags for the artist Lynyrd Skynyrd.
+2014-07-10 18:53:29.796404-> Loaded    100 tags for the artist M.I.A..
+2014-07-10 18:53:31.789016-> Loaded    100 tags for the artist M83.
+2014-07-10 18:53:33.656627-> Loaded     12 tags for the artist MAGIC!.
+2014-07-10 18:53:35.582356-> Loaded    100 tags for the artist MGMT.
+2014-07-10 18:53:37.444524-> Loaded     12 tags for the artist MKTO.
+2014-07-10 18:53:39.343513-> Loaded     93 tags for the artist MS MR.
+2014-07-10 18:53:41.294406-> Loaded    100 tags for the artist Mac DeMarco.
+2014-07-10 18:53:43.267404-> Loaded    100 tags for the artist Mac Miller.
+2014-07-10 18:53:45.357645-> Loaded    100 tags for the artist Machine Head.
+2014-07-10 18:53:47.246398-> Loaded     69 tags for the artist Macklemore & Ryan Lewis.
+2014-07-10 18:53:49.183364-> Loaded     80 tags for the artist Madeon.
+2014-07-10 18:53:51.195956-> Loaded    100 tags for the artist Madonna.
+2014-07-10 18:53:53.173599-> Loaded    100 tags for the artist Major Lazer.
+2014-07-10 18:53:55.121679-> Loaded    100 tags for the artist Mando Diao.
+2014-07-10 18:53:57.055042-> Loaded    100 tags for the artist Manic Street Preachers.
+2014-07-10 18:53:59.024181-> Loaded    100 tags for the artist Manowar.
+2014-07-10 18:54:00.912163-> Loaded    100 tags for the artist Manu Chao.
+2014-07-10 18:54:02.844213-> Loaded    100 tags for the artist Mariah Carey.
+2014-07-10 18:54:04.837864-> Loaded    100 tags for the artist Marilyn Manson.
+2014-07-10 18:54:06.794595-> Loaded     90 tags for the artist Marina & the Diamonds.
+2014-07-10 18:54:09.111922-> Loaded    100 tags for the artist Maroon 5.
+2014-07-10 18:54:11.726704-> Loaded     41 tags for the artist Martin Garrix.
+2014-07-10 18:54:13.875028-> Loaded    100 tags for the artist Marvin Gaye.
+2014-07-10 18:54:16.456419-> Loaded    100 tags for the artist Massive Attack.
+2014-07-10 18:54:18.431924-> Loaded    100 tags for the artist Mastodon.
+2014-07-10 18:54:20.412913-> Loaded    100 tags for the artist Matchbox Twenty.
+2014-07-10 18:54:22.278828-> Loaded     31 tags for the artist Matt & Kim.
+2014-07-10 18:54:24.211708-> Loaded    100 tags for the artist Mayday Parade.
+2014-07-10 18:54:26.176597-> Loaded    100 tags for the artist Mazzy Star.
+2014-07-10 18:54:28.094210-> Loaded    100 tags for the artist Megadeth.
+2014-07-10 18:54:30.011310-> Loaded    100 tags for the artist Meshuggah.
+2014-07-10 18:54:31.922719-> Loaded    100 tags for the artist Metallica.
+2014-07-10 18:54:33.864084-> Loaded    100 tags for the artist Metric.
+2014-07-10 18:54:35.814337-> Loaded    100 tags for the artist Metronomy.
+2014-07-10 18:54:37.741816-> Loaded    100 tags for the artist Michael Bublé.
+2014-07-10 18:54:39.671515-> Loaded    100 tags for the artist Michael Jackson.
+2014-07-10 18:54:41.641486-> Loaded    100 tags for the artist Miguel.
+2014-07-10 18:54:43.597511-> Loaded    100 tags for the artist Miike Snow.
+2014-07-10 18:54:45.545255-> Loaded    100 tags for the artist Mika.
+2014-07-10 18:54:47.563515-> Loaded    100 tags for the artist Mike Oldfield.
+2014-07-10 18:54:49.569013-> Loaded    100 tags for the artist Miles Davis.
+2014-07-10 18:54:51.490165-> Loaded    100 tags for the artist Miles Kane.
+2014-07-10 18:54:53.427799-> Loaded    100 tags for the artist Miley Cyrus.
+2014-07-10 18:54:55.295905-> Loaded     31 tags for the artist Milky Chance.
+2014-07-10 18:54:57.698834-> Loaded    100 tags for the artist Miranda Lambert.
+2014-07-10 18:54:59.659514-> Loaded    100 tags for the artist Misfits.
+2014-07-10 18:55:01.596991-> Loaded    100 tags for the artist Moby.
+2014-07-10 18:55:03.526520-> Loaded    100 tags for the artist Moderat.
+2014-07-10 18:55:05.479784-> Loaded    100 tags for the artist Modest Mouse.
+2014-07-10 18:55:07.626257-> Loaded    100 tags for the artist Mogwai.
+2014-07-10 18:55:09.600089-> Loaded    100 tags for the artist Morcheeba.
+2014-07-10 18:55:11.537168-> Loaded    100 tags for the artist Morrissey.
+2014-07-10 18:55:13.470052-> Loaded    100 tags for the artist Mos Def.
+2014-07-10 18:55:15.413843-> Loaded    100 tags for the artist Motörhead.
+2014-07-10 18:55:17.373611-> Loaded    100 tags for the artist Mount Kimbie.
+2014-07-10 18:55:19.191856-> Loaded     12 tags for the artist Mr. Probz.
+2014-07-10 18:55:21.068611-> 
+2014-07-10 18:55:21.068611-> Loading tags for the artist Mumford & Sons failed!
+2014-07-10 18:55:21.068674-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 18:55:21.068777-> Error value:
+'tag'
+2014-07-10 18:55:21.068777-> 
+2014-07-10 18:55:32.934611-> Loaded    100 tags for the artist Muse.
+2014-07-10 18:55:34.928144-> Loaded    100 tags for the artist My Bloody Valentine.
+2014-07-10 18:55:36.829395-> Loaded    100 tags for the artist My Chemical Romance.
+2014-07-10 18:55:38.754712-> Loaded    100 tags for the artist My Morning Jacket.
+2014-07-10 18:55:40.706323-> Loaded     87 tags for the artist MØ.
+2014-07-10 18:55:42.647737-> Loaded    100 tags for the artist Mötley Crüe.
+2014-07-10 18:55:44.584271-> Loaded    100 tags for the artist NOFX.
+2014-07-10 18:55:46.493073-> Loaded    100 tags for the artist Nancy Sinatra.
+2014-07-10 18:55:48.491973-> Loaded    100 tags for the artist Nas.
+2014-07-10 18:55:50.427924-> Loaded    100 tags for the artist Natalia Kills.
+2014-07-10 18:55:52.305174-> Loaded     37 tags for the artist Naughty Boy.
+2014-07-10 18:55:54.268908-> Loaded    100 tags for the artist Ne-Yo.
+2014-07-10 18:55:56.256172-> Loaded    100 tags for the artist Neil Young.
+2014-07-10 18:55:58.183457-> Loaded    100 tags for the artist Nelly.
+2014-07-10 18:56:00.124457-> Loaded    100 tags for the artist Nelly Furtado.
+2014-07-10 18:56:02.090755-> Loaded    100 tags for the artist Neon Indian.
+2014-07-10 18:56:04.027254-> Loaded    100 tags for the artist Neon Trees.
+2014-07-10 18:56:05.922463-> Loaded    100 tags for the artist Nero.
+2014-07-10 18:56:07.996355-> Loaded    100 tags for the artist Netsky.
+2014-07-10 18:56:09.520190-> Pausing for 5 minutes...
+2014-07-10 19:01:10.980666-> Loaded    100 tags for the artist Neutral Milk Hotel.
+2014-07-10 19:01:12.933469-> Loaded    100 tags for the artist New Order.
+2014-07-10 19:01:14.865616-> Loaded    100 tags for the artist Nick Cave & The Bad Seeds.
+2014-07-10 19:01:16.843531-> Loaded    100 tags for the artist Nick Drake.
+2014-07-10 19:01:18.756506-> Loaded    100 tags for the artist Nickelback.
+2014-07-10 19:01:20.718797-> Loaded    100 tags for the artist Nicki Minaj.
+2014-07-10 19:01:22.644473-> Loaded    100 tags for the artist Nico & Vinz.
+2014-07-10 19:01:24.597996-> Loaded    100 tags for the artist Nicolas Jaar.
+2014-07-10 19:01:26.510283-> Loaded    100 tags for the artist Nightmares on Wax.
+2014-07-10 19:01:28.469124-> Loaded    100 tags for the artist Nightwish.
+2014-07-10 19:01:30.382469-> Loaded    100 tags for the artist Nina Simone.
+2014-07-10 19:01:32.302266-> Loaded    100 tags for the artist Nine Inch Nails.
+2014-07-10 19:01:34.231725-> Loaded    100 tags for the artist Nirvana.
+2014-07-10 19:01:36.201005-> Loaded    100 tags for the artist No Doubt.
+2014-07-10 19:01:38.105213-> Loaded    100 tags for the artist Noah and the Whale.
+2014-07-10 19:01:39.972286-> Loaded     27 tags for the artist Nonono.
+2014-07-10 19:01:41.885213-> Loaded    100 tags for the artist Norah Jones.
+2014-07-10 19:01:43.851608-> Loaded    100 tags for the artist Nosaj Thing.
+2014-07-10 19:01:45.793100-> Loaded    100 tags for the artist Nouvelle Vague.
+2014-07-10 19:01:47.656293-> Loaded     27 tags for the artist ODESZA.
+2014-07-10 19:01:49.616329-> Loaded    100 tags for the artist OK Go.
+2014-07-10 19:01:51.619052-> Loaded    100 tags for the artist Oasis.
+2014-07-10 19:01:53.492526-> 
+2014-07-10 19:01:53.492526-> Loading tags for the artist Of Mice & Men failed!
+2014-07-10 19:01:53.492641-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:01:53.492675-> Error value:
+'tag'
+2014-07-10 19:01:53.492675-> 
+2014-07-10 19:05:29.571897-> Loaded    100 tags for the artist Of Monsters and Men.
+2014-07-10 19:05:31.424847-> Loaded      7 tags for the artist Oliver Heldens.
+2014-07-10 19:05:33.398701-> Loaded    100 tags for the artist Olly Murs.
+2014-07-10 19:05:35.324398-> Loaded    100 tags for the artist One Direction.
+2014-07-10 19:05:37.313601-> Loaded    100 tags for the artist OneRepublic.
+2014-07-10 19:05:39.701637-> Loaded    100 tags for the artist Opeth.
+2014-07-10 19:05:41.586904-> Loaded    100 tags for the artist Otis Redding.
+2014-07-10 19:05:43.645262-> Loaded    100 tags for the artist Outkast.
+2014-07-10 19:05:45.586675-> Loaded    100 tags for the artist Owl City.
+2014-07-10 19:05:47.488835-> Loaded    100 tags for the artist Ozzy Osbourne.
+2014-07-10 19:05:49.447242-> Loaded    100 tags for the artist P!nk.
+2014-07-10 19:05:51.372359-> Loaded    100 tags for the artist P.O.D..
+2014-07-10 19:05:53.409134-> Loaded    100 tags for the artist PJ Harvey.
+2014-07-10 19:05:55.358355-> Loaded    100 tags for the artist Paloma Faith.
+2014-07-10 19:05:57.237187-> Loaded     49 tags for the artist Panama.
+2014-07-10 19:05:59.196780-> Loaded    100 tags for the artist Panic! at the Disco.
+2014-07-10 19:06:01.601262-> Loaded    100 tags for the artist Pantera.
+2014-07-10 19:06:03.523728-> Loaded    100 tags for the artist Paolo Nutini.
+2014-07-10 19:06:05.430553-> Loaded    100 tags for the artist Papa Roach.
+2014-07-10 19:06:07.428055-> Loaded    100 tags for the artist Paramore.
+2014-07-10 19:06:09.655810-> Loaded    100 tags for the artist Parkway Drive.
+2014-07-10 19:06:12.333142-> Loaded    100 tags for the artist Parov Stelar.
+2014-07-10 19:06:14.674689-> Loaded     62 tags for the artist Parquet Courts.
+2014-07-10 19:06:17.193099-> Loaded    100 tags for the artist Passenger.
+2014-07-10 19:06:19.145898-> Loaded    100 tags for the artist Passion Pit.
+2014-07-10 19:06:21.071921-> Loaded    100 tags for the artist Patti Smith.
+2014-07-10 19:06:23.009959-> Loaded    100 tags for the artist Paul Kalkbrenner.
+2014-07-10 19:06:24.964215-> Loaded    100 tags for the artist Paul McCartney.
+2014-07-10 19:06:27.057978-> Loaded    100 tags for the artist Paul Simon.
+2014-07-10 19:06:29.012351-> Loaded    100 tags for the artist Pavement.
+2014-07-10 19:06:30.950351-> Loaded    100 tags for the artist Pearl Jam.
+2014-07-10 19:06:32.900359-> Loaded    100 tags for the artist Pendulum.
+2014-07-10 19:06:34.887033-> Loaded    100 tags for the artist Pet Shop Boys.
+2014-07-10 19:06:36.850107-> Loaded    100 tags for the artist Peter Bjorn and John.
+2014-07-10 19:06:38.822274-> Loaded    100 tags for the artist Peter Gabriel.
+2014-07-10 19:06:40.752251-> Loaded    100 tags for the artist Phantogram.
+2014-07-10 19:06:42.689598-> Loaded    100 tags for the artist Pharrell Williams.
+2014-07-10 19:06:44.633105-> Loaded    100 tags for the artist Phil Collins.
+2014-07-10 19:06:46.542733-> Loaded     62 tags for the artist Phillip Phillips.
+2014-07-10 19:06:48.502204-> Loaded    100 tags for the artist Phoenix.
+2014-07-10 19:06:50.443607-> Loaded    100 tags for the artist Phosphorescent.
+2014-07-10 19:06:52.354714-> Loaded    100 tags for the artist Pink.
+2014-07-10 19:06:54.288391-> Loaded    100 tags for the artist Pink Floyd.
+2014-07-10 19:06:56.251925-> Loaded    100 tags for the artist Pitbull.
+2014-07-10 19:06:58.234442-> Loaded    100 tags for the artist Pixies.
+2014-07-10 19:07:00.192671-> Loaded    100 tags for the artist Placebo.
+2014-07-10 19:07:02.121427-> Loaded    100 tags for the artist Plain White T's.
+2014-07-10 19:07:04.056613-> Loaded    100 tags for the artist Poets of the Fall.
+2014-07-10 19:07:06.014597-> Loaded     99 tags for the artist Poliça.
+2014-07-10 19:07:07.986427-> Loaded    100 tags for the artist Porcupine Tree.
+2014-07-10 19:07:09.928222-> Loaded     64 tags for the artist Porter Robinson.
+2014-07-10 19:07:11.881951-> Loaded    100 tags for the artist Portishead.
+2014-07-10 19:07:13.830620-> Loaded    100 tags for the artist Portugal. The Man.
+2014-07-10 19:07:15.777951-> Loaded    100 tags for the artist Pretty Lights.
+2014-07-10 19:07:17.692620-> Loaded    100 tags for the artist Primal Scream.
+2014-07-10 19:07:19.636579-> Loaded    100 tags for the artist Prince.
+2014-07-10 19:07:21.569883-> Loaded    100 tags for the artist Psy.
+2014-07-10 19:07:23.518634-> Loaded    100 tags for the artist Puddle of Mudd.
+2014-07-10 19:07:25.449709-> Loaded    100 tags for the artist Pulp.
+2014-07-10 19:07:27.414263-> Loaded    100 tags for the artist Purity Ring.
+2014-07-10 19:07:29.347119-> Loaded     92 tags for the artist Pusha T.
+2014-07-10 19:07:31.281175-> Loaded    100 tags for the artist Queen.
+2014-07-10 19:07:33.243410-> Loaded    100 tags for the artist Queens of the Stone Age.
+2014-07-10 19:07:35.175533-> Loaded    100 tags for the artist R. Kelly.
+2014-07-10 19:07:37.108886-> Loaded    100 tags for the artist R.E.M..
+2014-07-10 19:07:39.018433-> Loaded     60 tags for the artist RAC.
+2014-07-10 19:07:40.956901-> Loaded    100 tags for the artist RJD2.
+2014-07-10 19:07:42.870244-> Loaded    100 tags for the artist Radical Face.
+2014-07-10 19:07:44.836655-> Loaded    100 tags for the artist Radiohead.
+2014-07-10 19:07:46.777316-> Loaded    100 tags for the artist Rage Against the Machine.
+2014-07-10 19:07:48.714586-> Loaded    100 tags for the artist Rainbow.
+2014-07-10 19:07:50.688498-> Loaded    100 tags for the artist Ramin Djawadi.
+2014-07-10 19:07:52.658959-> Loaded    100 tags for the artist Rammstein.
+2014-07-10 19:07:54.590826-> Loaded    100 tags for the artist Ramones.
+2014-07-10 19:07:56.548596-> Loaded    100 tags for the artist Rancid.
+2014-07-10 19:07:58.441379-> Loaded    100 tags for the artist Ratatat.
+2014-07-10 19:08:00.397470-> Loaded    100 tags for the artist Ray Charles.
+2014-07-10 19:08:01.912316-> Pausing for 5 minutes...
+2014-07-10 19:13:03.491656-> Loaded    100 tags for the artist Ray LaMontagne.
+2014-07-10 19:13:05.404061-> Loaded    100 tags for the artist Real Estate.
+2014-07-10 19:13:07.339542-> Loaded    100 tags for the artist Red Hot Chili Peppers.
+2014-07-10 19:13:09.325959-> Loaded    100 tags for the artist Regina Spektor.
+2014-07-10 19:13:11.298437-> Loaded     83 tags for the artist Rhye.
+2014-07-10 19:13:13.218975-> Loaded    100 tags for the artist Rick Ross.
+2014-07-10 19:13:15.170255-> Loaded    100 tags for the artist Ricky Martin.
+2014-07-10 19:13:17.100761-> Loaded    100 tags for the artist Rihanna.
+2014-07-10 19:13:19.054884-> Loaded    100 tags for the artist Rise Against.
+2014-07-10 19:13:21.016226-> Loaded    100 tags for the artist Rita Ora.
+2014-07-10 19:13:22.864838-> Loaded     11 tags for the artist Rixton.
+2014-07-10 19:13:24.804597-> Loaded    100 tags for the artist Rob Zombie.
+2014-07-10 19:13:26.751075-> Loaded    100 tags for the artist Robbie Williams.
+2014-07-10 19:13:28.670547-> Loaded    100 tags for the artist Robin Thicke.
+2014-07-10 19:13:30.592147-> Loaded    100 tags for the artist Robyn.
+2014-07-10 19:13:32.571681-> Loaded    100 tags for the artist Rod Stewart.
+2014-07-10 19:13:34.434913-> Loaded     17 tags for the artist Route 94.
+2014-07-10 19:13:36.372852-> Loaded    100 tags for the artist Roxette.
+2014-07-10 19:13:38.297597-> Loaded    100 tags for the artist Roxy Music.
+2014-07-10 19:13:40.202905-> Loaded    100 tags for the artist Roy Orbison.
+2014-07-10 19:13:42.148062-> Loaded     60 tags for the artist Rudimental.
+2014-07-10 19:13:44.088076-> Loaded    100 tags for the artist Rush.
+2014-07-10 19:13:45.996867-> Loaded    100 tags for the artist Ryan Adams.
+2014-07-10 19:13:47.968165-> Loaded    100 tags for the artist Röyksopp.
+2014-07-10 19:13:49.932866-> Loaded    100 tags for the artist Röyksopp & Robyn.
+2014-07-10 19:13:51.852920-> Loaded    100 tags for the artist SBTRKT.
+2014-07-10 19:13:53.756671-> Loaded     57 tags for the artist SOHN.
+2014-07-10 19:13:55.760481-> Loaded    100 tags for the artist Sabaton.
+2014-07-10 19:13:57.740011-> Loaded    100 tags for the artist Sade.
+2014-07-10 19:13:59.676846-> Loaded    100 tags for the artist Sam Cooke.
+2014-07-10 19:14:01.527121-> Loaded     41 tags for the artist Sam Smith.
+2014-07-10 19:14:03.423653-> Loaded     48 tags for the artist San Cisco.
+2014-07-10 19:14:05.386689-> Loaded    100 tags for the artist Santana.
+2014-07-10 19:14:07.363849-> Loaded    100 tags for the artist Santigold.
+2014-07-10 19:14:09.656677-> Loaded    100 tags for the artist Sara Bareilles.
+2014-07-10 19:14:12.334470-> Loaded    100 tags for the artist ScHoolboy Q.
+2014-07-10 19:14:15.027159-> Loaded    100 tags for the artist Scissor Sisters.
+2014-07-10 19:14:17.571855-> Loaded    100 tags for the artist Scorpions.
+2014-07-10 19:14:19.485548-> Loaded    100 tags for the artist Seal.
+2014-07-10 19:14:21.378847-> Loaded    100 tags for the artist Sean Paul.
+2014-07-10 19:14:23.313679-> Loaded    100 tags for the artist Seether.
+2014-07-10 19:14:25.167804-> Loaded     15 tags for the artist Seinabo Sey.
+2014-07-10 19:14:27.186907-> Loaded    100 tags for the artist Selena Gomez.
+2014-07-10 19:14:29.110275-> Loaded    100 tags for the artist Sepultura.
+2014-07-10 19:14:31.073243-> Loaded    100 tags for the artist Serj Tankian.
+2014-07-10 19:14:33.043782-> Loaded    100 tags for the artist Sex Pistols.
+2014-07-10 19:14:34.996621-> Loaded    100 tags for the artist Shakira.
+2014-07-10 19:14:36.948998-> Loaded    100 tags for the artist Sharon Van Etten.
+2014-07-10 19:14:38.860930-> Loaded    100 tags for the artist She & Him.
+2014-07-10 19:14:40.795753-> Loaded    100 tags for the artist Sheryl Crow.
+2014-07-10 19:14:42.750300-> Loaded    100 tags for the artist Shinedown.
+2014-07-10 19:14:44.651466-> Loaded    100 tags for the artist Sia.
+2014-07-10 19:14:46.576124-> Loaded    100 tags for the artist Sigma.
+2014-07-10 19:14:48.481656-> Loaded    100 tags for the artist Sigur Rós.
+2014-07-10 19:14:50.405931-> Loaded    100 tags for the artist Silversun Pickups.
+2014-07-10 19:14:52.302146-> Loaded     47 tags for the artist Simon & Garfunkel.
+2014-07-10 19:14:54.241529-> Loaded    100 tags for the artist Simple Minds.
+2014-07-10 19:14:56.187438-> Loaded    100 tags for the artist Simple Plan.
+2014-07-10 19:14:58.144302-> Loaded    100 tags for the artist Siouxsie and the Banshees.
+2014-07-10 19:15:00.117566-> Loaded    100 tags for the artist Skillet.
+2014-07-10 19:15:02.029947-> Loaded    100 tags for the artist Skrillex.
+2014-07-10 19:15:03.974298-> Loaded    100 tags for the artist Sky Ferreira.
+2014-07-10 19:15:05.886884-> Loaded    100 tags for the artist Slash.
+2014-07-10 19:15:07.832204-> Loaded    100 tags for the artist Slayer.
+2014-07-10 19:15:09.757983-> Loaded    100 tags for the artist Sleigh Bells.
+2014-07-10 19:15:11.688816-> Loaded    100 tags for the artist Slipknot.
+2014-07-10 19:15:13.615958-> Loaded    100 tags for the artist Slowdive.
+2014-07-10 19:15:15.551932-> Loaded    100 tags for the artist Smash Mouth.
+2014-07-10 19:15:17.610452-> Loaded    100 tags for the artist Snoop Dogg.
+2014-07-10 19:15:19.558111-> Loaded    100 tags for the artist Snow Patrol.
+2014-07-10 19:15:21.494605-> Loaded    100 tags for the artist Sonata Arctica.
+2014-07-10 19:15:23.393514-> Loaded    100 tags for the artist Sonic Youth.
+2014-07-10 19:15:25.427406-> Loaded    100 tags for the artist Soundgarden.
+2014-07-10 19:15:27.365586-> Loaded    100 tags for the artist Spice Girls.
+2014-07-10 19:15:29.319670-> Loaded    100 tags for the artist Spoon.
+2014-07-10 19:15:31.181422-> Loaded     43 tags for the artist St. Lucia.
+2014-07-10 19:15:33.099262-> Loaded    100 tags for the artist St. Vincent.
+2014-07-10 19:15:35.027786-> Loaded    100 tags for the artist Staind.
+2014-07-10 19:15:36.936595-> Loaded    100 tags for the artist Starfucker.
+2014-07-10 19:15:38.874398-> Loaded    100 tags for the artist Stars.
+2014-07-10 19:15:40.816702-> Loaded    100 tags for the artist Static-X.
+2014-07-10 19:15:42.794039-> Loaded    100 tags for the artist Steely Dan.
+2014-07-10 19:15:44.730529-> Loaded    100 tags for the artist Steppenwolf.
+2014-07-10 19:15:46.620650-> Loaded    100 tags for the artist Stereophonics.
+2014-07-10 19:15:48.564695-> Loaded    100 tags for the artist Steve Miller Band.
+2014-07-10 19:15:50.475071-> Loaded    100 tags for the artist Stevie Wonder.
+2014-07-10 19:15:52.437407-> Loaded    100 tags for the artist Sting.
+2014-07-10 19:15:54.350149-> Loaded    100 tags for the artist Stone Sour.
+2014-07-10 19:15:56.288531-> Loaded    100 tags for the artist Stone Temple Pilots.
+2014-07-10 19:15:58.237735-> Loaded    100 tags for the artist Stromae.
+2014-07-10 19:16:00.184934-> Loaded    100 tags for the artist Sub Focus.
+2014-07-10 19:16:02.116769-> Loaded    100 tags for the artist Sublime.
+2014-07-10 19:16:04.023875-> Loaded    100 tags for the artist Suede.
+2014-07-10 19:16:05.955170-> Loaded    100 tags for the artist Sufjan Stevens.
+2014-07-10 19:16:07.994270-> Loaded    100 tags for the artist Sum 41.
+2014-07-10 19:16:10.308620-> Loaded    100 tags for the artist Sun Kil Moon.
+2014-07-10 19:16:12.817503-> Loaded    100 tags for the artist Supergrass.
+2014-07-10 19:16:15.498100-> Loaded    100 tags for the artist Supertramp.
+2014-07-10 19:16:17.674676-> Loaded    100 tags for the artist Survivor.
+2014-07-10 19:16:19.617778-> Loaded    100 tags for the artist Swans.
+2014-07-10 19:16:21.132503-> Pausing for 5 minutes...
+2014-07-10 19:21:22.542184-> Loaded    100 tags for the artist Swedish House Mafia.
+2014-07-10 19:21:24.404296-> Loaded     14 tags for the artist Sylvan Esso.
+2014-07-10 19:21:26.351418-> Loaded    100 tags for the artist System of a Down.
+2014-07-10 19:21:28.278291-> Loaded    100 tags for the artist T. Rex.
+2014-07-10 19:21:30.232163-> Loaded    100 tags for the artist T.I..
+2014-07-10 19:21:32.187813-> Loaded    100 tags for the artist TLC.
+2014-07-10 19:21:34.108204-> Loaded    100 tags for the artist TV on the Radio.
+2014-07-10 19:21:36.096770-> Loaded    100 tags for the artist Taio Cruz.
+2014-07-10 19:21:38.038988-> Loaded    100 tags for the artist Taking Back Sunday.
+2014-07-10 19:21:40.023227-> Loaded    100 tags for the artist Talking Heads.
+2014-07-10 19:21:41.947961-> Loaded    100 tags for the artist Tame Impala.
+2014-07-10 19:21:43.892580-> Loaded    100 tags for the artist Taylor Swift.
+2014-07-10 19:21:45.812921-> Loaded    100 tags for the artist Tears for Fears.
+2014-07-10 19:21:47.740952-> Loaded    100 tags for the artist Tegan and Sara.
+2014-07-10 19:21:49.654233-> Loaded     72 tags for the artist Temples.
+2014-07-10 19:21:51.591781-> Loaded    100 tags for the artist Tenacious D.
+2014-07-10 19:21:53.550830-> Loaded    100 tags for the artist Tennis.
+2014-07-10 19:21:55.502264-> Loaded     77 tags for the artist The 1975.
+2014-07-10 19:21:57.410311-> Loaded    100 tags for the artist The Album Leaf.
+2014-07-10 19:21:59.305080-> Loaded    100 tags for the artist The All-American Rejects.
+2014-07-10 19:22:01.227284-> Loaded    100 tags for the artist The Allman Brothers Band.
+2014-07-10 19:22:03.189731-> Loaded    100 tags for the artist The Animals.
+2014-07-10 19:22:05.128857-> Loaded    100 tags for the artist The Antlers.
+2014-07-10 19:22:07.067129-> Loaded    100 tags for the artist The Avett Brothers.
+2014-07-10 19:22:09.462917-> Loaded    100 tags for the artist The Band.
+2014-07-10 19:22:11.806323-> Loaded    100 tags for the artist The Beach Boys.
+2014-07-10 19:22:14.055971-> Loaded    100 tags for the artist The Beatles.
+2014-07-10 19:22:16.710283-> Loaded    100 tags for the artist The Black Keys.
+2014-07-10 19:22:18.629165-> Loaded    100 tags for the artist The Brian Jonestown Massacre.
+2014-07-10 19:22:20.569714-> Loaded    100 tags for the artist The Cardigans.
+2014-07-10 19:22:22.476931-> Loaded    100 tags for the artist The Cars.
+2014-07-10 19:22:24.326225-> Loaded     14 tags for the artist The Chainsmokers.
+2014-07-10 19:22:26.249434-> Loaded    100 tags for the artist The Chemical Brothers.
+2014-07-10 19:22:28.202841-> Loaded    100 tags for the artist The Cinematic Orchestra.
+2014-07-10 19:22:30.148938-> Loaded    100 tags for the artist The Civil Wars.
+2014-07-10 19:22:32.034762-> Loaded    100 tags for the artist The Clash.
+2014-07-10 19:22:33.974251-> Loaded    100 tags for the artist The Cranberries.
+2014-07-10 19:22:35.918473-> Loaded    100 tags for the artist The Cure.
+2014-07-10 19:22:37.828323-> Loaded    100 tags for the artist The Dandy Warhols.
+2014-07-10 19:22:39.766326-> Loaded    100 tags for the artist The Dead Weather.
+2014-07-10 19:22:41.681787-> Loaded    100 tags for the artist The Decemberists.
+2014-07-10 19:22:43.653834-> Loaded    100 tags for the artist The Doobie Brothers.
+2014-07-10 19:22:45.582398-> Loaded    100 tags for the artist The Doors.
+2014-07-10 19:22:47.505429-> Loaded    100 tags for the artist The Drums.
+2014-07-10 19:22:49.449623-> Loaded    100 tags for the artist The Flaming Lips.
+2014-07-10 19:22:51.454946-> Loaded    100 tags for the artist The Fratellis.
+2014-07-10 19:22:53.334882-> Loaded    100 tags for the artist The Fray.
+2014-07-10 19:22:55.277668-> Loaded    100 tags for the artist The Game.
+2014-07-10 19:22:57.215357-> Loaded    100 tags for the artist The Gaslight Anthem.
+2014-07-10 19:22:59.166296-> Loaded    100 tags for the artist The Glitch Mob.
+2014-07-10 19:23:01.138758-> Loaded    100 tags for the artist The Head and the Heart.
+2014-07-10 19:23:03.089032-> Loaded    100 tags for the artist The Heavy.
+2014-07-10 19:23:05.026816-> Loaded    100 tags for the artist The Hives.
+2014-07-10 19:23:06.966117-> Loaded    100 tags for the artist The Horrors.
+2014-07-10 19:23:08.943453-> Loaded    100 tags for the artist The Jackson 5.
+2014-07-10 19:23:10.892233-> Loaded    100 tags for the artist The Jesus and Mary Chain.
+2014-07-10 19:23:12.820184-> Loaded    100 tags for the artist The Jimi Hendrix Experience.
+2014-07-10 19:23:14.794930-> Loaded    100 tags for the artist The Killers.
+2014-07-10 19:23:16.730019-> Loaded    100 tags for the artist The Kills.
+2014-07-10 19:23:18.663638-> Loaded    100 tags for the artist The Kinks.
+2014-07-10 19:23:20.623715-> Loaded    100 tags for the artist The Knife.
+2014-07-10 19:23:22.527659-> Loaded    100 tags for the artist The Kooks.
+2014-07-10 19:23:24.471601-> Loaded    100 tags for the artist The Last Shadow Puppets.
+2014-07-10 19:23:26.422947-> Loaded    100 tags for the artist The Libertines.
+2014-07-10 19:23:28.321682-> Loaded    100 tags for the artist The Lonely Island.
+2014-07-10 19:23:30.243523-> Loaded    100 tags for the artist The Lumineers.
+2014-07-10 19:23:32.052126-> 
+2014-07-10 19:23:32.052126-> Loading tags for the artist The Mamas & the Papas failed!
+2014-07-10 19:23:32.052240-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:23:32.052275-> Error value:
+'tag'
+2014-07-10 19:23:32.052275-> 
+2014-07-10 19:31:51.787307-> Loaded    100 tags for the artist The Mars Volta.
+2014-07-10 19:31:53.677309-> Loaded    100 tags for the artist The Naked and Famous.
+2014-07-10 19:31:55.601678-> Loaded    100 tags for the artist The National.
+2014-07-10 19:31:57.536240-> Loaded     84 tags for the artist The Neighbourhood.
+2014-07-10 19:31:59.451823-> Loaded    100 tags for the artist The New Pornographers.
+2014-07-10 19:32:01.378483-> Loaded    100 tags for the artist The Notorious B.I.G..
+2014-07-10 19:32:03.316280-> Loaded    100 tags for the artist The Offspring.
+2014-07-10 19:32:05.334901-> Loaded    100 tags for the artist The Pains of Being Pure At Heart.
+2014-07-10 19:32:07.303537-> Loaded    100 tags for the artist The Police.
+2014-07-10 19:32:09.862582-> Loaded    100 tags for the artist The Postal Service.
+2014-07-10 19:32:12.124509-> Loaded    100 tags for the artist The Pretty Reckless.
+2014-07-10 19:32:14.868441-> Loaded    100 tags for the artist The Prodigy.
+2014-07-10 19:32:16.889031-> Loaded    100 tags for the artist The Pussycat Dolls.
+2014-07-10 19:32:18.832575-> Loaded    100 tags for the artist The Raconteurs.
+2014-07-10 19:32:20.796576-> Loaded    100 tags for the artist The Rapture.
+2014-07-10 19:32:22.782995-> Loaded    100 tags for the artist The Rolling Stones.
+2014-07-10 19:32:24.711104-> Loaded    100 tags for the artist The Roots.
+2014-07-10 19:32:26.569431-> Loaded     23 tags for the artist The Royal Concept.
+2014-07-10 19:32:28.481482-> Loaded    100 tags for the artist The Script.
+2014-07-10 19:32:30.449685-> Loaded    100 tags for the artist The Shins.
+2014-07-10 19:32:32.434387-> Loaded    100 tags for the artist The Smashing Pumpkins.
+2014-07-10 19:32:34.326040-> Loaded    100 tags for the artist The Smiths.
+2014-07-10 19:32:36.304444-> Loaded    100 tags for the artist The Stone Roses.
+2014-07-10 19:32:38.271072-> Loaded    100 tags for the artist The Stooges.
+2014-07-10 19:32:40.222400-> Loaded    100 tags for the artist The Strokes.
+2014-07-10 19:32:42.171878-> Loaded    100 tags for the artist The Subways.
+2014-07-10 19:32:44.145094-> Loaded    100 tags for the artist The Tallest Man on Earth.
+2014-07-10 19:32:46.114712-> Loaded    100 tags for the artist The Temper Trap.
+2014-07-10 19:32:48.100426-> Loaded    100 tags for the artist The Temptations.
+2014-07-10 19:32:50.005518-> Loaded    100 tags for the artist The Ting Tings.
+2014-07-10 19:32:51.976668-> Loaded    100 tags for the artist The Used.
+2014-07-10 19:32:53.976356-> Loaded    100 tags for the artist The Vaccines.
+2014-07-10 19:32:55.894879-> Loaded    100 tags for the artist The Velvet Underground.
+2014-07-10 19:32:57.409852-> Pausing for 5 minutes...
+2014-07-10 19:37:59.177772-> Loaded    100 tags for the artist The Verve.
+2014-07-10 19:38:01.195647-> Loaded    100 tags for the artist The Wanted.
+2014-07-10 19:38:03.175981-> Loaded    100 tags for the artist The War on Drugs.
+2014-07-10 19:38:05.123166-> Loaded    100 tags for the artist The Weeknd.
+2014-07-10 19:38:07.064585-> Loaded    100 tags for the artist The White Stripes.
+2014-07-10 19:38:09.401915-> Loaded    100 tags for the artist The Whitest Boy Alive.
+2014-07-10 19:38:11.496360-> Loaded    100 tags for the artist The Who.
+2014-07-10 19:38:13.715003-> Loaded    100 tags for the artist The Wombats.
+2014-07-10 19:38:16.399601-> Loaded    100 tags for the artist The Zombies.
+2014-07-10 19:38:18.337171-> Loaded    100 tags for the artist The xx.
+2014-07-10 19:38:20.281080-> Loaded    100 tags for the artist Theory of a Deadman.
+2014-07-10 19:38:22.196222-> Loaded    100 tags for the artist Thievery Corporation.
+2014-07-10 19:38:24.267768-> Loaded    100 tags for the artist Thin Lizzy.
+2014-07-10 19:38:26.206841-> Loaded    100 tags for the artist Third Eye Blind.
+2014-07-10 19:38:28.173719-> Loaded    100 tags for the artist This Will Destroy You.
+2014-07-10 19:38:30.140762-> Loaded    100 tags for the artist Thousand Foot Krutch.
+2014-07-10 19:38:32.119506-> Loaded    100 tags for the artist Three Days Grace.
+2014-07-10 19:38:34.080101-> Loaded    100 tags for the artist Timbaland.
+2014-07-10 19:38:35.927732-> Loaded     21 tags for the artist Timeflies.
+2014-07-10 19:38:37.831032-> Loaded    100 tags for the artist Tiësto.
+2014-07-10 19:38:39.796503-> Loaded     95 tags for the artist Todd Terje.
+2014-07-10 19:38:41.821112-> Loaded    100 tags for the artist Tokyo Police Club.
+2014-07-10 19:38:43.732226-> Loaded     67 tags for the artist Tom Odell.
+2014-07-10 19:38:45.637470-> Loaded    100 tags for the artist Tom Petty.
+2014-07-10 19:38:47.549453-> Loaded    100 tags for the artist Tom Petty and The Heartbreakers.
+2014-07-10 19:38:49.490195-> Loaded    100 tags for the artist Tom Waits.
+2014-07-10 19:38:51.413758-> Loaded    100 tags for the artist Tool.
+2014-07-10 19:38:53.337534-> Loaded    100 tags for the artist Tori Amos.
+2014-07-10 19:38:55.218395-> Loaded    100 tags for the artist Toro y Moi.
+2014-07-10 19:38:57.151966-> Loaded    100 tags for the artist Toto.
+2014-07-10 19:38:59.060547-> Loaded     44 tags for the artist Tove Lo.
+2014-07-10 19:39:00.984633-> Loaded    100 tags for the artist Tracy Chapman.
+2014-07-10 19:39:02.936996-> Loaded    100 tags for the artist Train.
+2014-07-10 19:39:04.882312-> Loaded    100 tags for the artist Travis.
+2014-07-10 19:39:06.813333-> Loaded    100 tags for the artist Trentemøller.
+2014-07-10 19:39:08.763183-> Loaded    100 tags for the artist Trey Songz.
+2014-07-10 19:39:10.745709-> Loaded    100 tags for the artist Tricky.
+2014-07-10 19:39:12.659157-> Loaded    100 tags for the artist Trivium.
+2014-07-10 19:39:14.606813-> Loaded     63 tags for the artist Twenty One Pilots.
+2014-07-10 19:39:16.571184-> Loaded    100 tags for the artist Twin Shadow.
+2014-07-10 19:39:18.542495-> Loaded    100 tags for the artist Two Door Cinema Club.
+2014-07-10 19:39:20.487601-> Loaded    100 tags for the artist Tycho.
+2014-07-10 19:39:22.428978-> Loaded    100 tags for the artist Tyga.
+2014-07-10 19:39:24.374570-> Loaded    100 tags for the artist Tyler, the Creator.
+2014-07-10 19:39:26.366571-> Loaded    100 tags for the artist U2.
+2014-07-10 19:39:28.307307-> Loaded    100 tags for the artist UNKLE.
+2014-07-10 19:39:30.274094-> Loaded    100 tags for the artist Unknown Mortal Orchestra.
+2014-07-10 19:39:32.339617-> Loaded    100 tags for the artist Usher.
+2014-07-10 19:39:34.261159-> Loaded    100 tags for the artist Vampire Weekend.
+2014-07-10 19:39:36.218682-> Loaded    100 tags for the artist Van Halen.
+2014-07-10 19:39:38.160224-> Loaded    100 tags for the artist Van Morrison.
+2014-07-10 19:39:40.023118-> Loaded     23 tags for the artist Vance Joy.
+2014-07-10 19:39:41.983946-> Loaded    100 tags for the artist Violent Femmes.
+2014-07-10 19:39:43.902662-> Loaded    100 tags for the artist Volbeat.
+2014-07-10 19:39:45.817462-> Loaded     59 tags for the artist Walk the Moon.
+2014-07-10 19:39:47.746804-> Loaded    100 tags for the artist Warpaint.
+2014-07-10 19:39:49.671927-> Loaded    100 tags for the artist Washed Out.
+2014-07-10 19:39:51.601186-> Loaded    100 tags for the artist Wavves.
+2014-07-10 19:39:53.564018-> Loaded    100 tags for the artist Weezer.
+2014-07-10 19:39:55.478392-> Loaded    100 tags for the artist White Lies.
+2014-07-10 19:39:57.390353-> Loaded    100 tags for the artist Whitesnake.
+2014-07-10 19:39:59.354675-> Loaded    100 tags for the artist Whitney Houston.
+2014-07-10 19:40:01.304948-> Loaded    100 tags for the artist Wilco.
+2014-07-10 19:40:03.438901-> Loaded    100 tags for the artist Wild Beasts.
+2014-07-10 19:40:05.416973-> Loaded    100 tags for the artist Wild Nothing.
+2014-07-10 19:40:07.364350-> Loaded    100 tags for the artist William Fitzsimmons.
+2014-07-10 19:40:09.578234-> Loaded    100 tags for the artist Within Temptation.
+2014-07-10 19:40:12.188499-> Loaded    100 tags for the artist Wiz Khalifa.
+2014-07-10 19:40:14.708335-> Loaded    100 tags for the artist Wolfgang Amadeus Mozart.
+2014-07-10 19:40:17.341836-> Loaded    100 tags for the artist Wolfmother.
+2014-07-10 19:40:19.296319-> Loaded    100 tags for the artist Woodkid.
+2014-07-10 19:40:21.249172-> Loaded    100 tags for the artist Wu-Tang Clan.
+2014-07-10 19:40:23.163024-> Loaded    100 tags for the artist Wye Oak.
+2014-07-10 19:40:25.377942-> Loaded     70 tags for the artist YG.
+2014-07-10 19:40:27.350110-> Loaded    100 tags for the artist Yann Tiersen.
+2014-07-10 19:40:29.369766-> Loaded    100 tags for the artist Yeah Yeah Yeahs.
+2014-07-10 19:40:31.315290-> Loaded    100 tags for the artist Yeasayer.
+2014-07-10 19:40:33.273496-> Loaded    100 tags for the artist Yellowcard.
+2014-07-10 19:40:35.211176-> Loaded    100 tags for the artist Yes.
+2014-07-10 19:40:37.184751-> Loaded    100 tags for the artist Yo La Tengo.
+2014-07-10 19:40:39.134077-> Loaded    100 tags for the artist You Me at Six.
+2014-07-10 19:40:41.164426-> Loaded    100 tags for the artist Young the Giant.
+2014-07-10 19:40:43.106744-> Loaded    100 tags for the artist Youth Lagoon.
+2014-07-10 19:40:45.120457-> Loaded    100 tags for the artist ZZ Top.
+2014-07-10 19:40:47.141891-> Loaded     81 tags for the artist Zedd.
+2014-07-10 19:40:49.128554-> Loaded    100 tags for the artist Zero 7.
+2014-07-10 19:40:50.963344-> Loaded     10 tags for the artist Zhu.
+2014-07-10 19:40:52.876069-> Loaded    100 tags for the artist [unknown].
+2014-07-10 19:40:54.802778-> Loaded    100 tags for the artist a-ha.
+2014-07-10 19:40:56.748572-> Loaded    100 tags for the artist alt-J.
+2014-07-10 19:40:58.660538-> Loaded    100 tags for the artist blink-182.
+2014-07-10 19:41:00.592035-> Loaded    100 tags for the artist deadmau5.
+2014-07-10 19:41:02.531553-> Loaded    100 tags for the artist fun..
+2014-07-10 19:41:04.534488-> Loaded    100 tags for the artist of Montreal.
+2014-07-10 19:41:06.475604-> Loaded    100 tags for the artist t.A.T.u..
+2014-07-10 19:41:08.387062-> Loaded    100 tags for the artist tUnE-yArDs.
+2014-07-10 19:41:10.343140-> Loaded    100 tags for the artist will.i.am.
+2014-07-10 19:41:12.351481-> Loaded    100 tags for the artist Ólafur Arnalds.
+2014-07-10 19:41:14.336596-> Loaded    100 tags for the artist Сплин.
+2014-07-10 19:41:16.259991-> Loaded    100 tags for the artist 소녀시대.
+2014-07-10 19:41:17.774634-> Pausing for 5 minutes...
+2014-07-10 19:46:19.226613-> 
+2014-07-10 19:46:19.226613-> Loading tags for the artist Earth, Wind & Fire failed!
+2014-07-10 19:46:19.226731-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:46:19.226766-> Error value:
+'tag'
+2014-07-10 19:46:19.226766-> 
+2014-07-10 19:46:37.257772-> 
+2014-07-10 19:46:37.257772-> Loading tags for the artist Edward Sharpe & The Magnetic Zeros failed!
+2014-07-10 19:46:37.257854-> Error type:
+<type 'exceptions.TypeError'>
+2014-07-10 19:46:37.257886-> Error value:
+string indices must be integers
+2014-07-10 19:46:37.257886-> 
+2014-07-10 19:46:45.314825-> 
+2014-07-10 19:46:45.314825-> Loading tags for the artist Lilly Wood & The Prick failed!
+2014-07-10 19:46:45.314942-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:46:45.314977-> Error value:
+'tag'
+2014-07-10 19:46:45.314977-> 
+2014-07-10 19:46:55.308081-> 
+2014-07-10 19:46:55.308081-> Loading tags for the artist Mumford & Sons failed!
+2014-07-10 19:46:55.308198-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:46:55.308233-> Error value:
+'tag'
+2014-07-10 19:46:55.308233-> 
+2014-07-10 19:46:59.421235-> 
+2014-07-10 19:46:59.421235-> Loading tags for the artist Of Mice & Men failed!
+2014-07-10 19:46:59.421347-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:46:59.421381-> Error value:
+'tag'
+2014-07-10 19:46:59.421381-> 
+2014-07-10 19:47:04.704824-> 
+2014-07-10 19:47:04.704824-> Loading tags for the artist The Mamas & the Papas failed!
+2014-07-10 19:47:04.704938-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:47:04.704964-> Error value:
+'tag'
+2014-07-10 19:47:04.704964-> 
+2014-07-10 19:47:10.254253-> 
+2014-07-10 19:47:10.254253-> Loading tags for the artist Earth, Wind & Fire failed!
+2014-07-10 19:47:10.254369-> Error type:
+<type 'exceptions.KeyError'>
+2014-07-10 19:47:10.254405-> Error value:
+'tag'
+2014-07-10 19:47:10.254405-> 
+2014-07-10 19:47:15.849107-> Loaded total of 93,562 records.
+2014-07-10 19:47:15.849212-> ******************************************************************************************************************************************************
+2014-07-10 19:47:15.849212-> 

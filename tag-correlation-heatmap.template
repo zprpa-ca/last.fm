@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <link rel="stylesheet"  type="text/css"         href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css"/>
+    <script                 type="text/javascript"  src ="http://code.jquery.com/jquery-1.11.1.js"></script>
+    <script                 type="text/javascript"  src ="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+    <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
+    <script type="text/javascript" src="http://code.highcharts.com/modules/exporting.js"></script>
+    <script type="text/javascript" src="http://code.highcharts.com/themes/gray.js"></script>
+    <script type="text/javascript" src="http://code.highcharts.com/modules/heatmap.js"></script>
+
+</head>
+<!--===============================================================================================================================================-->
+<!--===============================================================================================================================================-->
+
+<body>
+    <div id="container" style="height:97vh;width:98vw"></div>
+<body>
+<!--===============================================================================================================================================-->
+<!--===============================================================================================================================================-->
+
+<script type="text/javascript">
+$(function () {
+    $('#container').highcharts({
+        chart: {
+            type: 'heatmap'
+        },
+        title: {
+            text: 'Last.fm Top Tags Correlation Heatmap'
+        },
+        xAxis: {
+            categories: %s,
+            title: {text: 'Tags'}
+        },
+        yAxis: {
+            categories: %s,
+            title: {text: 'Tags'}
+        },
+        colorAxis: {
+            min:        0,
+            minColor:   '#FFFFFF',
+            maxColor:   '#f45b5b'
+        },
+        legend: {
+            align:          'right',
+            layout:         'vertical',
+            margin:         0,
+            verticalAlign:  'top',
+            y:              25,
+            symbolHeight:   320
+        },
+        tooltip: {
+            formatter:  function () {
+                            return  '<b>'     + this.series.xAxis.categories[this.point.x] + '</b><br>' +
+                                    'correlation coefficient with <br>' +
+                                    '<b>'     + this.series.yAxis.categories[this.point.y] + '</b><br>' +
+                                    'is <br>' +
+                                    '<b>'     + this.point.value + '</b>';
+                        }
+        },
+        plotOptions: {
+            series: {
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    color:   'black',
+                    style: {
+                        textShadow: 'none'
+                    }
+                },
+            }
+        },
+        series: [
+            {
+                name:           'Tag correlation coefficient',
+                borderWidth:    1,
+                data:           %s
+            }
+        ]
+    });
+});
+</script>
+
+<!--===============================================================================================================================================-->
+</html>

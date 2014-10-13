@@ -1,0 +1,101 @@
+
+Similarity comparison between the Last.fm API data and custom calculation.
+
+Compared tag: '80s'
+
+Last.fm API                     Custom Calculation
+------------------------------  ------------------------------------------------
+new wave                      	new wave                      0.69801677097	
+synthpop                      	pop                           0.18045937681	
+post-punk                     	rock                          0.137052667958	
+synth pop                     	classic rock                  0.131749650382	
+disco                         	post-punk                     0.115218769343	
+pop                           	synthpop                      0.0807213099879	
+italo disco                   	female vocalists              0.0611101187025	
+new romantic                  	glam rock                     0.0587358589946	
+classic rock                  	funk                          0.0360899395452	
+hair metal                    	hard rock                     0.033022259615	
+hard rock                     	swedish                       0.0191322625982	
+british                       	alternative                   0.0134510268202	
+soft rock                     	soul                          0.00593000221311	
+goth                          	rnb                           -0.00271394051222	
+dance                         	british                       -0.00468949955954	
+funk                          	electronic                    -0.00590298394772	
+rock                          	deep house                    -0.00627197284362	
+gothic rock                   	Southern Rock                 -0.00629336748481	
+soul                          	industrial metal              -0.00633822382285	
+albums i own                  	Power metal                   -0.00634362807466	
+pop rock                      	screamo                       -0.00642625836155	
+70s                           	icelandic                     -0.00644066339335	
+glam rock                     	Gangsta Rap                   -0.00645116415034	
+love                          	post-grunge                   -0.00645445373386	
+australian                    	Melodic Death Metal           -0.00645484528955	
+male vocalists                	death metal                   -0.00679321613975	
+favorites                     	blues rock                    -0.00694973269737	
+90s                           	industrial                    -0.0069657524685	
+heavy metal                   	latin                         -0.00698353813696	
+ndw                           	techno                        -0.00702694299826	
+ballad                        	indie folk                    -0.00703239326257	
+rnb                           	minimal                       -0.00703979522789	
+gothic                        	Progressive House             -0.00705239356241	
+american                      	folk rock                     -0.00709239861941	
+canadian                      	electro house                 -0.007420806842	
+female vocalists              	Classical                     -0.00742356025249	
+soundtrack                    	alternative metal             -0.00745014444032	
+post punk                     	irish                         -0.00747908546742	
+depeche mode                  	Progressive metal             -0.0075186411576	
+german                        	post-hardcore                 -0.0075216119178	
+alternative                   	idm                           -0.00754010592617	
+spanish                       	pop rock                      -0.00757317708572	
+heard on pandora              	Garage Rock                   -0.00759340659042	
+duran duran                   	piano                         -0.00798417551778	
+queen                         	Psychedelic Rock              -0.00807708025067	
+prince                        	reggae                        -0.00811380246769	
+80s pop                       	Soundtrack                    -0.00814237847333	
+oldies                        	country                       -0.00817119635086	
+deutsch                       	70s                           -0.00818607624419	
+power pop                     	chillwave                     -0.00845108318694	
+                              	thrash metal                  -0.00857158203911	
+                              	Drum and bass                 -0.00858454515429	
+                              	post-rock                     -0.00899021008222	
+                              	australian                    -0.00899091417361	
+                              	Canadian                      -0.00915349675077	
+                              	emo                           -0.00934121924305	
+                              	french                        -0.0093873291134	
+                              	60s                           -0.00947738786997	
+                              	metalcore                     -0.00955365166283	
+                              	Grunge                        -0.00992391643502	
+                              	dream pop                     -0.01023612808	
+                              	shoegaze                      -0.0103075139481	
+                              	electro                       -0.0103965034691	
+                              	Nu Metal                      -0.0105727256036	
+                              	pop punk                      -0.0110102036788	
+                              	electropop                    -0.0110477847432	
+                              	instrumental                  -0.0113657755857	
+                              	jazz                          -0.0114143833416	
+                              	heavy metal                   -0.0115782974265	
+                              	downtempo                     -0.0117793819367	
+                              	blues                         -0.0122895721004	
+                              	Progressive rock              -0.0124345827809	
+                              	dubstep                       -0.0129786980278	
+                              	Lo-Fi                         -0.0129906508682	
+                              	britpop                       -0.0132034462275	
+                              	psychedelic                   -0.0132908475444	
+                              	chillout                      -0.0134583656682	
+                              	ambient                       -0.0138934622717	
+                              	punk rock                     -0.0142131862348	
+                              	trip-hop                      -0.0142673430365	
+                              	punk                          -0.0150239105597	
+                              	metal                         -0.0150333860188	
+                              	singer-songwriter             -0.0150774584611	
+                              	House                         -0.0150778451895	
+                              	acoustic                      -0.0158133522384	
+                              	dance                         -0.0159839740677	
+                              	experimental                  -0.0176317105558	
+                              	indie                         -0.0198181598351	
+                              	indie pop                     -0.0210261270162	
+                              	rap                           -0.0230232335922	
+                              	folk                          -0.0230471053184	
+                              	alternative rock              -0.0248375480632	
+                              	indie rock                    -0.027900142499	
+                              	Hip-Hop                       -0.0283165578452	
